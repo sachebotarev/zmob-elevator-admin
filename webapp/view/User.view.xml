@@ -1,0 +1,78 @@
+<mvc:View
+        controllerName="rusagro.elevator.admin.controller.User"
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m">
+    <Page
+            title="{i18n>user.page.title}">
+        <Table id="UserList"
+               inset="false"
+               mode="SingleSelect"
+               items="{
+			       path: '/AuthUserSet'
+		       }" >
+            <headerToolbar>
+                <Toolbar>
+                    <Title text="{i18n>user.title}" level="H2" />
+                    <ToolbarSpacer />
+                    <Button
+                            icon="sap-icon://request"
+                            press="handleNewPress" />
+                    <Button
+                            icon="sap-icon://add-document"
+                            press="handleSyncSelected" />
+                    <Button
+                            icon="sap-icon://delete"
+                            press="handleClearSelected" />
+                </Toolbar>
+            </headerToolbar>
+            <columns>
+                <Column width="12em">
+                    <Text text="{i18n>user.name}" />
+                </Column>
+                <Column width="12em">
+                    <Text text="{i18n>user.fullname}" />
+                </Column>
+                <Column width="12em">
+                    <Text text="{i18n>user.sapuser}" />
+                </Column>
+                <Column width="12em">
+                    <Text text="{i18n>user.password}" />
+                </Column>
+                <Column width="12em">
+                    <Text text="{i18n>user.updateby}" />
+                </Column>
+                <Column width="12em">
+                    <Text text="{i18n>user.updateat}" />
+                </Column>
+                <Column width="6em">
+                    <Text text="{i18n>user.edit}" />
+                </Column>
+            </columns>
+            <items>
+                <ColumnListItem>
+                    <cells>
+                        <ObjectIdentifier
+                                title="{Name}"/>
+                        <Text
+                            text="{FullName}"/>
+                        <Text
+                                text="{SapUser}"/>
+                        <Text
+                                text="{Password}"/>
+                        <Text text="{
+                                path: 'UpdateAt',
+                                type: 'sap.ui.model.type.DateTime',
+                                formatOptions: {
+                                style: 'medium'
+                                }
+                            }" />
+                        <Text text="{UpdateBy}" />
+                        <Button
+                                icon="sap-icon://notes"
+                                press="handleInfoOperation"/>
+                    </cells>
+                </ColumnListItem>
+            </items>
+        </Table>
+    </Page>
+</mvc:View>

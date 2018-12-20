@@ -1,0 +1,26 @@
+<mvc:View
+    controllerName="rusagro.elevator.admin.controller.Menu"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page
+            title="{i18n>menu.page.title}">
+        <List
+                id="ShortProductList">
+            <items>
+                <StandardListItem
+                        type="Active"
+                        press="handleNavToProperty"
+                        title="{i18n>menu.item.parameters}" />
+                <StandardListItem
+                        type="Active"
+                        press="handleNavToUser"
+                        title="{i18n>menu.item.users}" />
+                <StandardListItem
+                        type="Active"
+                        press="handleNavToEntity"
+                        title="{i18n>menu.item.entities}" />
+            </items>
+        </List>
+    </Page>
+
+</mvc:View>

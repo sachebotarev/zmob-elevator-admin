@@ -1,0 +1,141 @@
+{
+    "sap.app": {
+    "title": "{{weight.document.application.title}}",
+        "applicationVersion": {
+        "version": "0.0.1"
+    },
+    "id": "rusagro.elevator.admin",
+        "type": "application",
+        "dataSources": {
+        "mainService": {
+            "uri": "/api/odata.svc",
+                "type": "OData",
+                "settings": {
+                "odataVersion": "2.0"
+            }
+        }
+    }
+},
+    "sap.ui" : {
+    "deviceTypes":{
+        "desktop": true,
+            "phone": false,
+            "tablet": true
+    },
+    "technology": "UI5",
+        "fullWidth": true
+},
+    "sap.ui5": {
+    "contentDensities": {
+        "compact": true,
+            "cozy": true
+    },
+    "dependencies": {
+        "minUI5Version": "1.50",
+            "libs": {
+            "sap.ui.core": {},
+            "sap.m": {},
+            "sap.tnt":{},
+            "sap.ui.layout":{},
+            "sap.uxap":{}
+        }
+    },
+    "rootView": {
+        "viewName": "rusagro.elevator.admin.view.App",
+            "type": "XML",
+            "async": true
+    },
+    "models": {
+        "i18n": {
+            "type": "sap.ui.model.resource.ResourceModel",
+                "settings": {
+                "bundleName": "rusagro.elevator.admin.i18n.i18n"
+            }
+        },
+        "": {
+            "dataSource": "mainService",
+                "settings": {
+                "defaultCountMode": "Inline"
+            }
+        }
+    },
+    "resources": {
+        "css": [
+            {
+                "uri": "css/styles.css"
+            }
+        ]
+    },
+    "routing":{
+        "config": {
+            "routerClass": "sap.m.routing.Router",
+                "viewType": "XML",
+                "viewPath": "rusagro.elevator.admin.view",
+                "controlId": "admin_app",
+                "bypassed": {
+                        "target": ["notFound"]
+                    },
+                "async": true
+        },
+        "routes":[
+            {
+                "pattern": "",
+                "name": "admin",
+                "target": ["menu", "admin"]
+            },
+            {
+                "pattern": "entity",
+                "name": "entity",
+                "target": ["menu", "entity"]
+            },
+            {
+                "pattern": "user",
+                "name": "user",
+                "target": ["menu", "user"]
+            },
+            {
+                "pattern": "property",
+                "name": "property",
+                "target": ["menu", "property"]
+            },
+            {
+                "pattern": "notFound",
+                "name": "notFound",
+                "target": ["menu","notFound"]
+            }
+        ],
+        "targets":{
+            "notFound": {
+                "viewName": "NotFound",
+                    "viewLevel": 1,
+                    "controlAggregation": "detailPages"
+            },
+            "admin":{
+                "viewName": "Admin",
+                    "viewLevel": 1,
+                    "controlAggregation": "detailPages"
+            },
+            "menu": {
+                "viewName": "Menu",
+                "viewLevel": 1,
+                "controlAggregation": "masterPages"
+            },
+            "user": {
+                "viewName": "User",
+                "viewLevel": 1,
+                "controlAggregation": "detailPages"
+            },
+            "entity": {
+                "viewName": "Entity",
+                "viewLevel": 1,
+                "controlAggregation": "detailPages"
+            },
+            "property": {
+                "viewName": "Property",
+                "viewLevel": 1,
+                "controlAggregation": "detailPages"
+            }
+        }
+    }
+}
+}

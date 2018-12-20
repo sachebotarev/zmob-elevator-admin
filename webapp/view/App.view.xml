@@ -1,0 +1,31 @@
+<mvc:View
+        controllerName="rusagro.elevator.admin.controller.App"
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns:u="sap.ui.unified"
+        xmlns="sap.m">
+
+    <u:Shell>
+        <u:headItems>
+            <u:ShellHeadItem
+                    tooltip="Home"
+                    icon="sap-icon://home"
+                    press="handlePressHome" />
+        </u:headItems>
+        <u:headEndItems>
+            <u:ShellHeadItem
+                    icon="sap-icon://log"
+                    tooltip="Logoff"
+                    press="handleLogoffPress" />
+        </u:headEndItems>
+        <u:user>
+            <u:ShellHeadUserItem
+                    image="sap-icon://person-placeholder"
+                    username="{global>/currentUser}"
+                    press="handleUserItemPressed" />
+        </u:user>
+        <SplitApp
+                id="admin_app">
+        </SplitApp>
+    </u:Shell>
+
+</mvc:View>

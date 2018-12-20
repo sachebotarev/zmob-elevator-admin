@@ -1,0 +1,79 @@
+<mvc:View
+        controllerName="rusagro.elevator.admin.controller.Entity"
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m">
+    <Page
+            title="Entity Manger">
+        <Table id="EntiyList"
+               inset="false"
+               mode="MultiSelect"
+               items="{
+			       path: '/EntityInfos'
+		       }" >
+            <headerToolbar>
+            <Toolbar>
+                <Title text="Entity" level="H2" />
+                <ToolbarSpacer />
+                <Button
+                        icon="sap-icon://activate"
+                        press="handleInitPress" />
+                <Button
+                        icon="sap-icon://synchronize"
+                        press="handleSyncAll" />
+                <Button
+                        icon="sap-icon://eraser"
+                        press="handleClearAll" />
+            </Toolbar>
+            </headerToolbar>
+            <columns>
+                <Column width="12em">
+                    <Text text="Name" />
+                </Column>
+                <Column width="12em">
+                    <Text text="Count" />
+                </Column>
+                <Column width="12em">
+                    <Text text="Last Update" />
+                </Column>
+                <Column width="12em">
+                    <Text text="User" />
+                </Column>
+                <Column width="12em">
+                    <Text text="Deltalink" />
+                </Column>
+                <Column width="6em">
+                    <Text text="Sync" />
+                </Column>
+                <Column width="6em">
+                    <Text text="Clear" />
+                </Column>
+            </columns>
+            <items>
+                <ColumnListItem>
+                    <cells>
+                        <ObjectIdentifier
+                                title="{Name}"/>
+                        <ObjectNumber
+                                number="{Count}"/>
+                        <Text text="{
+                                path: 'UpdateAt',
+                                type: 'sap.ui.model.type.DateTime',
+                                formatOptions: {
+                                style: 'medium'
+                                }
+                            }" />
+                        <Text text="{UpdateBy}" />
+                        <Text text="{Deltalink}" />
+                        <Button text="Sync"
+                                type="Accept"
+                                press="handleSyncOperation"
+                        />
+                        <Button text="Clear"
+                                type="Reject"
+                                press="handleClearOperation"/>
+                    </cells>
+                </ColumnListItem>
+            </items>
+        </Table>
+    </Page>
+</mvc:View>

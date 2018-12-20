@@ -1,0 +1,13 @@
+sapui5-sdk/
+sapui5-sdk
+node_modules/
+dist/
+bower_components/
+.DS_Store
+.vscode/
+
+logs
+*.log
+package-lock.json
+
+

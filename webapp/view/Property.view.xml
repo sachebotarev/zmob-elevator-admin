@@ -1,0 +1,42 @@
+<mvc:View
+        controllerName="rusagro.elevator.admin.controller.Property"
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m">
+    <Page
+            title="{i18n>property.page.title}">
+        <Table id="EntiyList"
+               inset="false"
+               mode="None"
+               items="{
+			       path: 'view>/data'
+		       }" >
+
+            <headerToolbar>
+                <Toolbar>
+                    <Title text="{i18n>property.title}" level="H2" />
+                    <ToolbarSpacer />
+                    <Button
+                            icon="sap-icon://synchronize"
+                            press="handlerRefresh" />
+                </Toolbar>
+            </headerToolbar>
+            <columns>
+                <Column width="8em">
+                    <Text text="{i18n>property.environment.name}" />
+                </Column>
+                <Column width="12em">
+                    <Text text="{i18n>property.environment.value}" />
+                </Column>
+            </columns>
+            <items>
+                <ColumnListItem>
+                    <cells>
+                        <ObjectIdentifier
+                                title="{view>Key}"/>
+                        <Text text="{view>Value}" />
+                    </cells>
+                </ColumnListItem>
+            </items>
+        </Table>
+    </Page>
+</mvc:View>

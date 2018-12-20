@@ -1,0 +1,10 @@
+<mvc:View
+        controllerName="rusagro.elevator.admin.controller.Admin"
+        xmlns:mvc="sap.ui.core.mvc"
+        xmlns="sap.m">
+    <Page
+            title="Администрирование">
+
+    </Page>
+
+</mvc:View>

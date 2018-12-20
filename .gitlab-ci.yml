@@ -1,0 +1,40 @@
+image: node:latest
+
+cache:
+  paths:
+  - node_modules/
+
+stages:
+  - test
+  - deploy
+
+test_specific:
+    stage: test
+    except:
+    - develop
+    - master
+    script:
+    - npm install
+    - npm run lint
+    tags:
+    - fiori
+
+test_shared:
+    stage: test
+    only:
+    - develop
+    script:
+    - npm install
+    - npm run lint
+    tags:
+    - shared
+
+deploy_shared:
+    stage: deploy
+    only:
+    - develop
+    script:
+    - npm install
+    - npm run deploy -- --user=$FIORI_USER --password=$FIORI_PASSWORD --request=$FIORI_REQUEST
+    tags:
+    - shared
