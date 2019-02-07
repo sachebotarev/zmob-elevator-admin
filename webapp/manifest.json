@@ -8,7 +8,7 @@
         "type": "application",
         "dataSources": {
         "mainService": {
-            "uri": "/api/odata.svc",
+            "uri": "/api/odata.svc/",
                 "type": "OData",
                 "settings": {
                 "odataVersion": "2.0"

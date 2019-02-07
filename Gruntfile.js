@@ -21,7 +21,7 @@ module.exports = function(grunt) {
         },
         serve: {
             host: '127.0.0.1',
-            port: '8080'
+            port: '8082'
         }
     };
 

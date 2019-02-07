@@ -37,11 +37,11 @@ sap.ui.define([
                 .then(function (data) {
                     MessageToast.show("Sync success");
                     that.getModel().refresh();
-                    console.log(data);
+                    //console.log(data);
                 })
                 .catch(function (reason) {
                     MessageToast.show("Sync error");
-                    console.error(reason);
+                   // console.error(reason);
                 });
         },
 
@@ -53,11 +53,11 @@ sap.ui.define([
                 .then(function (data) {
                     MessageToast.show("Clear success");
                     that.getModel().refresh();
-                    console.log(data);
+                   // console.log(data);
                 })
                 .catch(function (reason) {
                     MessageToast.show("Clear error");
-                    console.error(reason);
+                   // console.error(reason);
                 });
         },
 
@@ -70,12 +70,12 @@ sap.ui.define([
                     MessageToast.show("Init success");
                     that.getModel().refresh();
                     oView.setBusy(false);
-                    console.log(data);
+                   // console.log(data);
                 })
                 .catch(function (reason) {
                     MessageToast.show("Init error");
                     oView.setBusy(false);
-                    console.error(reason);
+                   // console.error(reason);
                 });
         }
 

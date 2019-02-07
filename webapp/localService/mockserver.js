@@ -9,7 +9,7 @@ sap.ui.define([
 		init: function () {
 			// create
 			var oMockServer = new MockServer({
-				rootUri: "/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/"
+				rootUri: "/api/odata.svc/"
 			});
 
 			MockServer.config({
@@ -17,7 +17,7 @@ sap.ui.define([
 				autoRespondAfter: this.SERVER_DELAY
 			});
 
-			var sPath = jQuery.sap.getModulePath("rusagro.elevator.weight.localService");
+			var sPath = jQuery.sap.getModulePath("rusagro.elevator.admin.localService");
 
 			oMockServer.simulate(sPath + "/metadata.xml", {
 				sMockdataBaseUrl: sPath + "/mockdata",

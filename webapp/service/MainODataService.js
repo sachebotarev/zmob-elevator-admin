@@ -27,7 +27,20 @@ sap.ui.define([
                         error:  (error)=>{reject(error);}
                     });
                 });
-            }
+			},
+
+			createAuthUser: function(oData) {
+				return new Promise((resolve, reject) => {
+					this.__oModel.create("/AuthUserSet", oData, {
+						success: function (oData, responce) {
+							resolve(oData);
+						},
+						error: function (oError) {
+							reject(oError);
+						}
+					});
+                });
+			}
 
         });
     }
