@@ -1,0 +1,28 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/ValuationTypeSet('%D0%9F%D0%9E%D0%9B%D0%95')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/ValuationTypeSet('%D0%9F%D0%9E%D0%9B%D0%95')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.ValuationType"
+ 		},
+ 		"Id": "ПОЛЕ",
+ 		"Name": "ПОЛЕ"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/ValuationTypeSet('%D0%93%D0%9F')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/ValuationTypeSet('%D0%93%D0%9F')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.ValuationType"
+ 		},
+ 		"Id": "ГП",
+ 		"Name": "ГП"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/ValuationTypeSet('%D0%9F%D0%A0%D0%9E%D0%A8%D0%9B%D0%AB%D0%99%20%D0%93%D0%9E')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/ValuationTypeSet('%D0%9F%D0%A0%D0%9E%D0%A8%D0%9B%D0%AB%D0%99%20%D0%93%D0%9E')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.ValuationType"
+ 		},
+ 		"Id": "ПРОШЛЫЙ ГО",
+ 		"Name": "ПРОШЛЫЙ ГО"
+ 	}
+ ]

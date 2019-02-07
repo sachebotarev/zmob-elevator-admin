@@ -1,0 +1,58 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/CameraSet('3122-EL02_1_1')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/CameraSet('3122-EL02_1_1')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Camera"
+ 		},
+ 		"Id": "3122-EL02_1_1",
+ 		"WeightTerminalId": "3122-EL02_1",
+ 		"CameraId": "1",
+ 		"Type": "1",
+ 		"Url": "KTS-9.RAINVEST.LOCAL",
+ 		"Name": "На территории",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/CameraSet('3122-EL02_1_2')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/CameraSet('3122-EL02_1_2')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Camera"
+ 		},
+ 		"Id": "3122-EL02_1_2",
+ 		"WeightTerminalId": "3122-EL02_1",
+ 		"CameraId": "2",
+ 		"Type": "2",
+ 		"Url": "KTS-9.RAINVEST.LOCAL",
+ 		"Name": "На въезде",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/CameraSet('3122-EL02_1_3')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/CameraSet('3122-EL02_1_3')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Camera"
+ 		},
+ 		"Id": "3122-EL02_1_3",
+ 		"WeightTerminalId": "3122-EL02_1",
+ 		"CameraId": "3",
+ 		"Type": "3",
+ 		"Url": "KTS-9.RAINVEST.LOCAL",
+ 		"Name": "Верхняя",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	}
+ ]

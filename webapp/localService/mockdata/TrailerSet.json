@@ -1,0 +1,274 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000009')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000009')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000009",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "АР 2831",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000168')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000168')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000168",
+ 		"Name": "полуприцеп КАМАЗ10000168",
+ 		"LicenseNum": "",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000178')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000178')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000178",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000180')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000180')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000180",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "А555АА",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000200')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000200')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000200",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000201",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000202",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000205')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000205')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000205",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "Р878АА31",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000206')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000206')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000206",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000216')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10000216')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10000216",
+ 		"Name": "полуприцеп КАМАЗ",
+ 		"LicenseNum": "",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10002262')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10002262')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10002262",
+ 		"Name": "Опрыскиват прицепной RICOSMA MiniAtilla",
+ 		"LicenseNum": "У776ХУ 68",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2060",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10002325')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10002325')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10002325",
+ 		"Name": "HORSCH Pronto",
+ 		"LicenseNum": "Х979ЕУ31",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2020",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10002431')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/TrailerSet('10002431')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Trailer"
+ 		},
+ 		"Id": "10002431",
+ 		"Name": "полуприцеп МАЗ 8561",
+ 		"LicenseNum": "У776ХУ99",
+ 		"MaxWeight": "0.000",
+ 		"Unit": "Т",
+ 		"PlantId": "",
+ 		"CompanyCodeId": "3100",
+ 		"Type": "H",
+ 		"Kind": "2140",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	}
+ ]

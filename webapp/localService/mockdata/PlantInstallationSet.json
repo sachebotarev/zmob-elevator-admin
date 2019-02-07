@@ -1,0 +1,274 @@
+[{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00013121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00013121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00013121",
+		"InstallationId": "0001",
+		"PlantId": "3121",
+		"Name": "РАИ Элеватор Шебекино",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00013121')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00023101')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00023101')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00023101",
+		"InstallationId": "0002",
+		"PlantId": "3101",
+		"Name": "РАИ ПО №1 Чернянское",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00023101')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00033101')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00033101')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00033101",
+		"InstallationId": "0003",
+		"PlantId": "3101",
+		"Name": "РАИ ПО №1 Чернянское",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00033101')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00043101')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00043101')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00043101",
+		"InstallationId": "0004",
+		"PlantId": "3101",
+		"Name": "РАИ ПО №1 Чернянское",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00043101')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00053101')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00053101')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00053101",
+		"InstallationId": "0005",
+		"PlantId": "3101",
+		"Name": "РАИ ПО №1 Чернянское",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00053101')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00063100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00063100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00063100",
+		"InstallationId": "0006",
+		"PlantId": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00063100')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00073100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00073100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00073100",
+		"InstallationId": "0007",
+		"PlantId": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00073100')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00083100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00083100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00083100",
+		"InstallationId": "0008",
+		"PlantId": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00083100')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00093100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00093100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00093100",
+		"InstallationId": "0009",
+		"PlantId": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00093100')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00103100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00103100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00103100",
+		"InstallationId": "0010",
+		"PlantId": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00103100')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00113100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00113100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00113100",
+		"InstallationId": "0011",
+		"PlantId": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00113100')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00123102')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00123102')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00123102",
+		"InstallationId": "0012",
+		"PlantId": "3102",
+		"Name": "РАИ ПО №2 Истобнянское",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00123102')/Plant"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00133104')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00133104')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlantInstallation"
+		},
+		"Id": "00133104",
+		"InstallationId": "0013",
+		"PlantId": "3104",
+		"Name": "РАИ ПО №4 Закутское",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"Plant": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantInstallationSet('00133104')/Plant"
+			}
+		}
+	}
+]

@@ -1,0 +1,106 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_1')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_1')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightTerminal"
+ 		},
+ 		"Id": "3122-EL02_1",
+ 		"Name": "Весовая брутто",
+ 		"Type": "1",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"CameraSet": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_1')/CameraSet"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_2')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_2')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightTerminal"
+ 		},
+ 		"Id": "3122-EL02_2",
+ 		"Name": "Весовая тара",
+ 		"Type": "1",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"CameraSet": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_2')/CameraSet"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_3')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_3')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightTerminal"
+ 		},
+ 		"Id": "3122-EL02_3",
+ 		"Name": "Весовая двунаправлненная",
+ 		"Type": "1",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"CameraSet": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_3')/CameraSet"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_4')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_4')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightTerminal"
+ 		},
+ 		"Id": "3122-EL02_4",
+ 		"Name": "Весовая Ж/Д",
+ 		"Type": "2",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"CameraSet": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_4')/CameraSet"
+ 			}
+ 		}
+	 },
+	 {
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_4')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_4')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightTerminal"
+		},
+		"Id": "3122-EL02_5",
+		"Name": "Лента",
+		"Type": "3",
+		"InstallationId": "0001",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"CameraSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightTerminalSet('3122-EL02_4')/CameraSet"
+			}
+		}
+	}
+ ]

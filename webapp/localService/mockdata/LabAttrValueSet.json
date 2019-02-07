@@ -1,0 +1,1185 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ALTERNRNQMNALP%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ALTERNRNQMNALP%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ALTERNRNQMNALP   1",
+ 		"ValueLabAttrId": "QMNALP   1",
+ 		"LabAttrId": "ALTERNRN",
+ 		"Name": "Есть",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ALTERNRNQMNALP%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ALTERNRNQMNALP%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ALTERNRNQMNALP   2",
+ 		"ValueLabAttrId": "QMNALP   2",
+ 		"LabAttrId": "ALTERNRN",
+ 		"Name": "Нет",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS   QMCLASS  1",
+ 		"ValueLabAttrId": "QMCLASS  1",
+ 		"LabAttrId": "CLASS",
+ 		"Name": "1 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS   QMCLASS  2",
+ 		"ValueLabAttrId": "QMCLASS  2",
+ 		"LabAttrId": "CLASS",
+ 		"Name": "2 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS   QMCLASS  3",
+ 		"ValueLabAttrId": "QMCLASS  3",
+ 		"LabAttrId": "CLASS",
+ 		"Name": "3 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS   QMCLASS  4",
+ 		"ValueLabAttrId": "QMCLASS  4",
+ 		"LabAttrId": "CLASS",
+ 		"Name": "4 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%205')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS%20%20%20QMCLASS%20%205')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS   QMCLASS  5",
+ 		"ValueLabAttrId": "QMCLASS  5",
+ 		"LabAttrId": "CLASS",
+ 		"Name": "5 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS1  CLASS    1",
+ 		"ValueLabAttrId": "CLASS    1",
+ 		"LabAttrId": "CLASS1",
+ 		"Name": "1 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS1  CLASS    2",
+ 		"ValueLabAttrId": "CLASS    2",
+ 		"LabAttrId": "CLASS1",
+ 		"Name": "2 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS1  CLASS    3",
+ 		"ValueLabAttrId": "CLASS    3",
+ 		"LabAttrId": "CLASS1",
+ 		"Name": "3 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS1  CLASS    4",
+ 		"ValueLabAttrId": "CLASS    4",
+ 		"LabAttrId": "CLASS1",
+ 		"Name": "4 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%205')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('CLASS1%20%20CLASS%20%20%20%205')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "CLASS1  CLASS    5",
+ 		"ValueLabAttrId": "CLASS    5",
+ 		"LabAttrId": "CLASS1",
+ 		"Name": "5 класс",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('COLOR%20%20%20QMCOLOR%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('COLOR%20%20%20QMCOLOR%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "COLOR   QMCOLOR  1",
+ 		"ValueLabAttrId": "QMCOLOR  1",
+ 		"LabAttrId": "COLOR",
+ 		"Name": "Свойственно здоровому зерну",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('COLOR%20%20%20QMCOLOR%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('COLOR%20%20%20QMCOLOR%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "COLOR   QMCOLOR  2",
+ 		"ValueLabAttrId": "QMCOLOR  2",
+ 		"LabAttrId": "COLOR",
+ 		"Name": "Обесцвеченность 1 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('COLOR%20%20%20QMCOLOR%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('COLOR%20%20%20QMCOLOR%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "COLOR   QMCOLOR  3",
+ 		"ValueLabAttrId": "QMCOLOR  3",
+ 		"LabAttrId": "COLOR",
+ 		"Name": "Обесцвеченность 2 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('COLOR%20%20%20QMCOLOR%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('COLOR%20%20%20QMCOLOR%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "COLOR   QMCOLOR  4",
+ 		"ValueLabAttrId": "QMCOLOR  4",
+ 		"LabAttrId": "COLOR",
+ 		"Name": "Обесцвеченность 3 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ERGOTN%20%20QMNALP%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ERGOTN%20%20QMNALP%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ERGOTN  QMNALP   1",
+ 		"ValueLabAttrId": "QMNALP   1",
+ 		"LabAttrId": "ERGOTN",
+ 		"Name": "Есть",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ERGOTN%20%20QMNALP%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ERGOTN%20%20QMNALP%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ERGOTN  QMNALP   2",
+ 		"ValueLabAttrId": "QMNALP   2",
+ 		"LabAttrId": "ERGOTN",
+ 		"Name": "Нет",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('FUSARN%20%20QMNALP%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('FUSARN%20%20QMNALP%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "FUSARN  QMNALP   1",
+ 		"ValueLabAttrId": "QMNALP   1",
+ 		"LabAttrId": "FUSARN",
+ 		"Name": "Есть",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('FUSARN%20%20QMNALP%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('FUSARN%20%20QMNALP%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "FUSARN  QMNALP   2",
+ 		"ValueLabAttrId": "QMNALP   2",
+ 		"LabAttrId": "FUSARN",
+ 		"Name": "Нет",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('KLOPCHN%20QMNALP%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('KLOPCHN%20QMNALP%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "KLOPCHN QMNALP   1",
+ 		"ValueLabAttrId": "QMNALP   1",
+ 		"LabAttrId": "KLOPCHN",
+ 		"Name": "Есть",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('KLOPCHN%20QMNALP%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('KLOPCHN%20QMNALP%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "KLOPCHN QMNALP   2",
+ 		"ValueLabAttrId": "QMNALP   2",
+ 		"LabAttrId": "KLOPCHN",
+ 		"Name": "Нет",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('NPROROS%20QMNAL%20%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('NPROROS%20QMNAL%20%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "NPROROS QMNAL    1",
+ 		"ValueLabAttrId": "QMNAL    1",
+ 		"LabAttrId": "NPROROS",
+ 		"Name": "Есть",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('NPROROS%20QMNAL%20%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('NPROROS%20QMNAL%20%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "NPROROS QMNAL    2",
+ 		"ValueLabAttrId": "QMNAL    2",
+ 		"LabAttrId": "NPROROS",
+ 		"Name": "Нет",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ODNOROD%20QMODNOR%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ODNOROD%20QMODNOR%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ODNOROD QMODNOR  1",
+ 		"ValueLabAttrId": "QMODNOR  1",
+ 		"LabAttrId": "ODNOROD",
+ 		"Name": "Однородное",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ODNOROD%20QMODNOR%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ODNOROD%20QMODNOR%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ODNOROD QMODNOR  2",
+ 		"ValueLabAttrId": "QMODNOR  2",
+ 		"LabAttrId": "ODNOROD",
+ 		"Name": "Не однородное",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PODTIP%20%20QMPODTIP%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PODTIP%20%20QMPODTIP%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "PODTIP  QMPODTIP 1",
+ 		"ValueLabAttrId": "QMPODTIP 1",
+ 		"LabAttrId": "PODTIP",
+ 		"Name": "1 подтип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PODTIP%20%20QMPODTIP%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PODTIP%20%20QMPODTIP%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "PODTIP  QMPODTIP 2",
+ 		"ValueLabAttrId": "QMPODTIP 2",
+ 		"LabAttrId": "PODTIP",
+ 		"Name": "2 подтип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PODTIP%20%20QMPODTIP%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PODTIP%20%20QMPODTIP%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "PODTIP  QMPODTIP 3",
+ 		"ValueLabAttrId": "QMPODTIP 3",
+ 		"LabAttrId": "PODTIP",
+ 		"Name": "3 подтип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PODTIP%20%20QMPODTIP%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PODTIP%20%20QMPODTIP%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "PODTIP  QMPODTIP 4",
+ 		"ValueLabAttrId": "QMPODTIP 4",
+ 		"LabAttrId": "PODTIP",
+ 		"Name": "4 подтип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PROROSN%20QMNALP%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PROROSN%20QMNALP%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "PROROSN QMNALP   1",
+ 		"ValueLabAttrId": "QMNALP   1",
+ 		"LabAttrId": "PROROSN",
+ 		"Name": "Есть",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PROROSN%20QMNALP%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('PROROSN%20QMNALP%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "PROROSN QMNALP   2",
+ 		"ValueLabAttrId": "QMNALP   2",
+ 		"LabAttrId": "PROROSN",
+ 		"Name": "Нет",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ROUTE   QMNAPR   1",
+ 		"ValueLabAttrId": "QMNAPR   1",
+ 		"LabAttrId": "ROUTE",
+ 		"Name": "Сухое/чистое",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ROUTE   QMNAPR   2",
+ 		"ValueLabAttrId": "QMNAPR   2",
+ 		"LabAttrId": "ROUTE",
+ 		"Name": "Сухое/сорное",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ROUTE   QMNAPR   3",
+ 		"ValueLabAttrId": "QMNAPR   3",
+ 		"LabAttrId": "ROUTE",
+ 		"Name": "Влажное/чистое",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ROUTE   QMNAPR   4",
+ 		"ValueLabAttrId": "QMNAPR   4",
+ 		"LabAttrId": "ROUTE",
+ 		"Name": "Влажное/сорное",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%205')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ROUTE%20%20%20QMNAPR%20%20%205')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ROUTE   QMNAPR   5",
+ 		"ValueLabAttrId": "QMNAPR   5",
+ 		"LabAttrId": "ROUTE",
+ 		"Name": "Отдельное хранение",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMUTN%20%20%20QMNALP%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMUTN%20%20%20QMNALP%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMUTN   QMNALP   1",
+ 		"ValueLabAttrId": "QMNALP   1",
+ 		"LabAttrId": "SMUTN",
+ 		"Name": "Есть",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMUTN%20%20%20QMNALP%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMUTN%20%20%20QMNALP%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMUTN   QMNALP   2",
+ 		"ValueLabAttrId": "QMNALP   2",
+ 		"LabAttrId": "SMUTN",
+ 		"Name": "Нет",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SORSEMN%20QMNALP%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SORSEMN%20QMNALP%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SORSEMN QMNALP   1",
+ 		"ValueLabAttrId": "QMNALP   1",
+ 		"LabAttrId": "SORSEMN",
+ 		"Name": "Есть",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SORSEMN%20QMNALP%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SORSEMN%20QMNALP%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SORSEMN QMNALP   2",
+ 		"ValueLabAttrId": "QMNALP   2",
+ 		"LabAttrId": "SORSEMN",
+ 		"Name": "Нет",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SOST%20%20%20%20QMSOSTZ%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SOST%20%20%20%20QMSOSTZ%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SOST    QMSOSTZ  1",
+ 		"ValueLabAttrId": "QMSOSTZ  1",
+ 		"LabAttrId": "SOST",
+ 		"Name": "Здоровое",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SOST%20%20%20%20QMSOSTZ%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SOST%20%20%20%20QMSOSTZ%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SOST    QMSOSTZ  2",
+ 		"ValueLabAttrId": "QMSOSTZ  2",
+ 		"LabAttrId": "SOST",
+ 		"Name": "Греющееся",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TEST%20%20%20%20QMCOLOR%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TEST%20%20%20%20QMCOLOR%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TEST    QMCOLOR  1",
+ 		"ValueLabAttrId": "QMCOLOR  1",
+ 		"LabAttrId": "TEST",
+ 		"Name": "Свойственно здоровому зерну",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TEST%20%20%20%20QMCOLOR%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TEST%20%20%20%20QMCOLOR%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TEST    QMCOLOR  2",
+ 		"ValueLabAttrId": "QMCOLOR  2",
+ 		"LabAttrId": "TEST",
+ 		"Name": "Обесцвеченность 1 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TEST%20%20%20%20QMCOLOR%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TEST%20%20%20%20QMCOLOR%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TEST    QMCOLOR  3",
+ 		"ValueLabAttrId": "QMCOLOR  3",
+ 		"LabAttrId": "TEST",
+ 		"Name": "Обесцвеченность 2 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TEST%20%20%20%20QMCOLOR%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TEST%20%20%20%20QMCOLOR%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TEST    QMCOLOR  4",
+ 		"ValueLabAttrId": "QMCOLOR  4",
+ 		"LabAttrId": "TEST",
+ 		"Name": "Обесцвеченность 3 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TIP     QMTIP    1",
+ 		"ValueLabAttrId": "QMTIP    1",
+ 		"LabAttrId": "TIP",
+ 		"Name": "I тип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TIP     QMTIP    2",
+ 		"ValueLabAttrId": "QMTIP    2",
+ 		"LabAttrId": "TIP",
+ 		"Name": "II тип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TIP     QMTIP    3",
+ 		"ValueLabAttrId": "QMTIP    3",
+ 		"LabAttrId": "TIP",
+ 		"Name": "III тип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TIP     QMTIP    4",
+ 		"ValueLabAttrId": "QMTIP    4",
+ 		"LabAttrId": "TIP",
+ 		"Name": "IV тип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%205')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%205')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TIP     QMTIP    5",
+ 		"ValueLabAttrId": "QMTIP    5",
+ 		"LabAttrId": "TIP",
+ 		"Name": "V тип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%206')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('TIP%20%20%20%20%20QMTIP%20%20%20%206')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "TIP     QMTIP    6",
+ 		"ValueLabAttrId": "QMTIP    6",
+ 		"LabAttrId": "TIP",
+ 		"Name": "VI тип",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ZVRED   QMZVRED  1",
+ 		"ValueLabAttrId": "QMZVRED  1",
+ 		"LabAttrId": "ZVRED",
+ 		"Name": "Не обнаружено",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ZVRED   QMZVRED  2",
+ 		"ValueLabAttrId": "QMZVRED  2",
+ 		"LabAttrId": "ZVRED",
+ 		"Name": "I степень",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ZVRED   QMZVRED  3",
+ 		"ValueLabAttrId": "QMZVRED  3",
+ 		"LabAttrId": "ZVRED",
+ 		"Name": "II степень",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ZVRED   QMZVRED  4",
+ 		"ValueLabAttrId": "QMZVRED  4",
+ 		"LabAttrId": "ZVRED",
+ 		"Name": "III степень",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%205')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%205')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ZVRED   QMZVRED  5",
+ 		"ValueLabAttrId": "QMZVRED  5",
+ 		"LabAttrId": "ZVRED",
+ 		"Name": "IV степень",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%206')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('ZVRED%20%20%20QMZVRED%20%206')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ZVRED   QMZVRED  6",
+ 		"ValueLabAttrId": "QMZVRED  6",
+ 		"LabAttrId": "ZVRED",
+ 		"Name": "V степень",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  1",
+ 		"ValueLabAttrId": "QMSMELL  1",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Свойственный",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%2010')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%2010')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  10",
+ 		"ValueLabAttrId": "QMSMELL  10",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Клещевой",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%2011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%2011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  11",
+ 		"ValueLabAttrId": "QMSMELL  11",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Гнилостный",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  2",
+ 		"ValueLabAttrId": "QMSMELL  2",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Полынный",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  3",
+ 		"ValueLabAttrId": "QMSMELL  3",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Чесночный",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  4",
+ 		"ValueLabAttrId": "QMSMELL  4",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Донника",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%205')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%205')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  5",
+ 		"ValueLabAttrId": "QMSMELL  5",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Головневый",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%206')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%206')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  6",
+ 		"ValueLabAttrId": "QMSMELL  6",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Амбарный",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%207')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%207')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  7",
+ 		"ValueLabAttrId": "QMSMELL  7",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Плесневый",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%208')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%208')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  8",
+ 		"ValueLabAttrId": "QMSMELL  8",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Затхлый",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%209')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('SMELL%20%20%20QMSMELL%20%209')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "SMELL   QMSMELL  9",
+ 		"ValueLabAttrId": "QMSMELL  9",
+ 		"LabAttrId": "SMELL",
+ 		"Name": "Солодовый",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('%D0%A6%D0%92%D0%95%D0%A2%20%20%20%20QMCOLOR%20%201')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('%D0%A6%D0%92%D0%95%D0%A2%20%20%20%20QMCOLOR%20%201')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ЦВЕТ    QMCOLOR  1",
+ 		"ValueLabAttrId": "QMCOLOR  1",
+ 		"LabAttrId": "ЦВЕТ",
+ 		"Name": "Свойственно здоровому зерну",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('%D0%A6%D0%92%D0%95%D0%A2%20%20%20%20QMCOLOR%20%202')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('%D0%A6%D0%92%D0%95%D0%A2%20%20%20%20QMCOLOR%20%202')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ЦВЕТ    QMCOLOR  2",
+ 		"ValueLabAttrId": "QMCOLOR  2",
+ 		"LabAttrId": "ЦВЕТ",
+ 		"Name": "Обесцвеченность 1 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('%D0%A6%D0%92%D0%95%D0%A2%20%20%20%20QMCOLOR%20%203')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('%D0%A6%D0%92%D0%95%D0%A2%20%20%20%20QMCOLOR%20%203')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ЦВЕТ    QMCOLOR  3",
+ 		"ValueLabAttrId": "QMCOLOR  3",
+ 		"LabAttrId": "ЦВЕТ",
+ 		"Name": "Обесцвеченность 2 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('%D0%A6%D0%92%D0%95%D0%A2%20%20%20%20QMCOLOR%20%204')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/LabAttrValueSet('%D0%A6%D0%92%D0%95%D0%A2%20%20%20%20QMCOLOR%20%204')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.LabAttrValue"
+ 		},
+ 		"Id": "ЦВЕТ    QMCOLOR  4",
+ 		"ValueLabAttrId": "QMCOLOR  4",
+ 		"LabAttrId": "ЦВЕТ",
+ 		"Name": "Обесцвеченность 3 степени",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	}
+ ]

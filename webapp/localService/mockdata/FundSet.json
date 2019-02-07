@@ -1,0 +1,20 @@
+[
+	{
+	  "__metadata" : {
+		"id" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FundSet('1')",
+		"uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FundSet('1')",
+		"type" : "ZMOB002_ELEVATOR_WEIGHT_SRV.Fund"
+	  },
+	  "Id" : "1",
+	  "Name" : "Собственное"
+	},
+	{
+	  "__metadata" : {
+		"id" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FundSet('2')",
+		"uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FundSet('2')",
+		"type" : "ZMOB002_ELEVATOR_WEIGHT_SRV.Fund"
+	  },
+	  "Id" : "2",
+	  "Name" : "Отв. хранение"
+	}
+  ]

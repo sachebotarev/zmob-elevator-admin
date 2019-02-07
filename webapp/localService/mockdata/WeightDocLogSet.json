@@ -1,0 +1,577 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E2C0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E2C0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E2C0EB",
+ 		"WeightDocId": "00155D01180A1ED8B1C49E567",
+ 		"Type": "E",
+ 		"Message": "П/СвобИспользЗпс на 28.000,000 КГ меньше : Y18011003 3101 PO01 0000005394.",
+ 		"CreateAt": "\/Date(1538552901000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181003074821"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E2E0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E2E0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E2E0EB",
+ 		"WeightDocId": "00155D01180A1ED8B1C49E567",
+ 		"Type": "E",
+ 		"Message": "Контрольная партия не создана",
+ 		"CreateAt": "\/Date(1538552839000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181003074719"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E300EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E300EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E300EB",
+ 		"WeightDocId": "00155D01180A1ED8B1DD16852",
+ 		"Type": "E",
+ 		"Message": "Контрольная партия не создана",
+ 		"CreateAt": "\/Date(1538561755000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181003101555"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E320EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E320EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E320EB",
+ 		"WeightDocId": "00155D01180A1ED8B1DD16852",
+ 		"Type": "E",
+ 		"Message": "Контрольная партия не создана",
+ 		"CreateAt": "\/Date(1538561755000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181003101555"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E340EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E340EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E340EB",
+ 		"WeightDocId": "00155D01180A1ED8B7CCB936D",
+ 		"Type": "E",
+ 		"Message": "Проводки возможны только в периодах 2018/10 и 2018/09 в БЕ 3100",
+ 		"CreateAt": "\/Date(1541163687000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181102130127"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E360EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E360EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E360EB",
+ 		"WeightDocId": "00155D01180A1ED8B7CEEEF84",
+ 		"Type": "E",
+ 		"Message": "Проводки возможны только в периодах 2018/10 и 2018/09 в БЕ 3100",
+ 		"CreateAt": "\/Date(1541163687000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181102130127"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E380EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E380EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E380EB",
+ 		"WeightDocId": "00155D01180A1ED8B9FB48580",
+ 		"Type": "E",
+ 		"Message": "Проводки возможны только в периодах 2018/10 и 2018/09 в БЕ 3100",
+ 		"CreateAt": "\/Date(1541163687000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181102130127"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E3A0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E3A0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E3A0EB",
+ 		"WeightDocId": "00155D01180A1ED8B9FB588F1",
+ 		"Type": "E",
+ 		"Message": "Проводки возможны только в периодах 2018/10 и 2018/09 в БЕ 3100",
+ 		"CreateAt": "\/Date(1541163687000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181102130127"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E3C0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E3C0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E3C0EB",
+ 		"WeightDocId": "00155D01180A1ED8B9FF5A1AA",
+ 		"Type": "E",
+ 		"Message": "Проводки возможны только в периодах 2018/10 и 2018/09 в БЕ 3100",
+ 		"CreateAt": "\/Date(1541163687000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181102130127"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E3E0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E3E0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E3E0EB",
+ 		"WeightDocId": "00155D01180A1ED8B9FFB4BF8",
+ 		"Type": "E",
+ 		"Message": "Партий с указанным количеством не найдено",
+ 		"CreateAt": "\/Date(1542194884000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114112804"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E400EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E400EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E400EB",
+ 		"WeightDocId": "00155D01180A1ED8B9FFB4BF8",
+ 		"Type": "E",
+ 		"Message": "Нет партии с нужным количеством",
+ 		"CreateAt": "\/Date(1542194884000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114112804"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E420EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E420EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E420EB",
+ 		"WeightDocId": "00155D01180A1ED8BA80028F0",
+ 		"Type": "E",
+ 		"Message": "Партий с указанным количеством не найдено",
+ 		"CreateAt": "\/Date(1542194884000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114112804"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E440EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E440EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E440EB",
+ 		"WeightDocId": "00155D01180A1ED8BA80028F0",
+ 		"Type": "E",
+ 		"Message": "Нет партии с нужным количеством",
+ 		"CreateAt": "\/Date(1542194884000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114112804"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E460EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E460EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E460EB",
+ 		"WeightDocId": "00155D01180A1ED8BA805D4AC",
+ 		"Type": "E",
+ 		"Message": "Партий с указанным количеством не найдено",
+ 		"CreateAt": "\/Date(1542194884000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114112804"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E480EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E480EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E480EB",
+ 		"WeightDocId": "00155D01180A1ED8BA805D4AC",
+ 		"Type": "E",
+ 		"Message": "Нет партии с нужным количеством",
+ 		"CreateAt": "\/Date(1542194884000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114112804"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E4A0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E4A0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E4A0EB",
+ 		"WeightDocId": "00155D01180A1ED8BA8087AE6",
+ 		"Type": "E",
+ 		"Message": "Документ сбыта  не существует в базе данных или архивирован.",
+ 		"CreateAt": "\/Date(1542197432000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114121032"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E4C0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E4C0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E4C0EB",
+ 		"WeightDocId": "00155D01180A1ED8BA816E44E",
+ 		"Type": "E",
+ 		"Message": "Документ сбыта  не существует в базе данных или архивирован.",
+ 		"CreateAt": "\/Date(1542197432000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114121032"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E4E0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E4E0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E4E0EB",
+ 		"WeightDocId": "00155D01180A1ED8BA8193A0E",
+ 		"Type": "E",
+ 		"Message": "Документ сбыта  не существует в базе данных или архивирован.",
+ 		"CreateAt": "\/Date(1542197432000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114121032"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E500EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E500EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E500EB",
+ 		"WeightDocId": "00155D01180A1ED8BA83CCB9B",
+ 		"Type": "E",
+ 		"Message": "Нужное изменение из-за проверки качества невозможно",
+ 		"CreateAt": "\/Date(1542207980000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114150620"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E520EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E520EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E520EB",
+ 		"WeightDocId": "00155D01180A1ED8BA83DF5DF",
+ 		"Type": "E",
+ 		"Message": "Нужное изменение из-за проверки качества невозможно",
+ 		"CreateAt": "\/Date(1542208781000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114151941"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E540EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E540EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E540EB",
+ 		"WeightDocId": "00155D01180A1ED8BA84871A5",
+ 		"Type": "E",
+ 		"Message": "Нужное изменение из-за проверки качества невозможно",
+ 		"CreateAt": "\/Date(1542208781000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181114151941"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E560EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E560EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E560EB",
+ 		"WeightDocId": "00155D01180A1ED8BAB4E8F2C",
+ 		"Type": "E",
+ 		"Message": "Нужное изменение из-за проверки качества невозможно",
+ 		"CreateAt": "\/Date(1542376836000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181116140036"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E580EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E580EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E580EB",
+ 		"WeightDocId": "00155D01180A1ED8BAF8F0462",
+ 		"Type": "E",
+ 		"Message": "Партий с указанным количеством не найдено",
+ 		"CreateAt": "\/Date(1542610376000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181119065256"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E5A0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E5A0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E5A0EB",
+ 		"WeightDocId": "00155D01180A1ED8BAF8F0462",
+ 		"Type": "E",
+ 		"Message": "Нет партии с нужным количеством",
+ 		"CreateAt": "\/Date(1542610376000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181119065256"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E5C0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E5C0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E5C0EB",
+ 		"WeightDocId": "00155D01180A1ED8BAF8FE0CB",
+ 		"Type": "E",
+ 		"Message": "Партий с указанным количеством не найдено",
+ 		"CreateAt": "\/Date(1542610462000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181119065422"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E5E0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E5E0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E5E0EB",
+ 		"WeightDocId": "00155D01180A1ED8BAF8FE0CB",
+ 		"Type": "E",
+ 		"Message": "Нет партии с нужным количеством",
+ 		"CreateAt": "\/Date(1542610462000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181119065422"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E600EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E600EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E600EB",
+ 		"WeightDocId": "00155D01180A1ED8BB9ACD3A8",
+ 		"Type": "E",
+ 		"Message": "Нужное изменение из-за проверки качества невозможно",
+ 		"CreateAt": "\/Date(1542727495000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181120152455"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E620EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E620EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E620EB",
+ 		"WeightDocId": "00155D01180A1ED8BB9B10C53",
+ 		"Type": "E",
+ 		"Message": "Нужное изменение из-за проверки качества невозможно",
+ 		"CreateAt": "\/Date(1542727495000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181120152455"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E640EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E640EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E640EB",
+ 		"WeightDocId": "00155D01180A1ED8BB9B14C14",
+ 		"Type": "E",
+ 		"Message": "Нужное изменение из-за проверки качества невозможно",
+ 		"CreateAt": "\/Date(1542727495000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181120152455"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E660EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E660EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E660EB",
+ 		"WeightDocId": "00155D01180A1ED8BBC95D156",
+ 		"Type": "E",
+ 		"Message": "Нет партии с нужным количеством",
+ 		"CreateAt": "\/Date(1542901035000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181122153715"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E680EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E680EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E680EB",
+ 		"WeightDocId": "00155D01180A1ED8BCC6FE1BD",
+ 		"Type": "E",
+ 		"Message": "Не полные данные для комбайна: : :",
+ 		"CreateAt": "\/Date(1543318529000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181127113529"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E6A0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E6A0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E6A0EB",
+ 		"WeightDocId": "00155D01180A1ED8BCC6FE1BD",
+ 		"Type": "E",
+ 		"Message": "Не полные данные для комбайна: : :",
+ 		"CreateAt": "\/Date(1543318529000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181127113529"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E6C0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E6C0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E6C0EB",
+ 		"WeightDocId": "00155D01180A1ED8BDDEDCFA4",
+ 		"Type": "E",
+ 		"Message": "Позиция 000010: доступны только:                                             0,000 КГ матерала Y17012011",
+ 		"CreateAt": "\/Date(1543840157000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181203122917"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E6E0EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E6E0EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E6E0EB",
+ 		"WeightDocId": "00155D01180A1ED8BFA1EE012",
+ 		"Type": "E",
+ 		"Message": "Проводки возможны только в периодах 2018/11 и 2018/10 в БЕ 3100",
+ 		"CreateAt": "\/Date(1544542751000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181211153911"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E700EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E700EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E700EB",
+ 		"WeightDocId": "00155D01180A1ED8BFBF29DBC",
+ 		"Type": "E",
+ 		"Message": "Проводки возможны только в периодах 2018/11 и 2018/10 в БЕ 3100",
+ 		"CreateAt": "\/Date(1544542751000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181211153911"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E720EB')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/WeightDocLogSet('00155D01180A1ED8BFC221A909E720EB')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.WeightDocLog"
+ 		},
+ 		"Id": "00155D01180A1ED8BFC221A909E720EB",
+ 		"WeightDocId": "3112154107323819863238047",
+ 		"Type": "E",
+ 		"Message": "Проводки возможны только в периодах 2018/11 и 2018/10 в БЕ 3100",
+ 		"CreateAt": "\/Date(1544542751000)\/",
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20181211153911"
+ 	}
+ ]

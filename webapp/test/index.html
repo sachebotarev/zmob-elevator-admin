@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<title>Весовая</title>
+
+	<script src="/resources/sap-ui-core.js"
+		id="sap-ui-bootstrap"
+		data-sap-ui-theme="sap_belize"
+		data-sap-ui-libs="sap.m,sap.f,sap.tnt,sap.viz,sap.ui.comp"
+		data-sap-ui-bindingSyntax="complex"
+		data-sap-ui-compatVersion="edge"
+		data-sap-ui-preload="async"
+		data-sap-ui-debug="true"
+		data-sap-ui-logLevel="ALL"
+		data-sap-ui-support="false"
+		data-sap-ui-resourceroots='{"rusagro.elevator.weight": "./.."}'>
+	</script>
+	<script type="text/javascript">
+		sap.ui.getCore().attachInit(function() {
+			jQuery.sap.require('sap.ui.thirdparty.jqueryui.jquery-ui-core');
+		    jQuery.sap.require('sap.ui.thirdparty.jqueryui.jquery-ui-widget');
+		    jQuery.sap.require('sap.ui.thirdparty.jqueryui.jquery-ui-mouse');
+		    jQuery.sap.require('sap.ui.thirdparty.jqueryui.jquery-ui-sortable');
+		    jQuery.sap.require('sap.ui.thirdparty.jqueryui.jquery-ui-droppable');
+			jQuery.sap.require('sap.ui.thirdparty.jqueryui.jquery-ui-draggable');
+
+			sap.ui.require([
+				"sap/ui/core/Component",
+				"sap/ui/core/ComponentContainer",
+				"rusagro/elevator/weight/localService/mockserver"
+			], function(Component, ComponentContainer, Mockserver) {
+				Mockserver.init();
+				sap.ui.component({
+					id: "elevator_weight",
+					name: "rusagro.elevator.weight",
+					async: true
+				}).then(function(oComponent) {
+					new ComponentContainer({
+						component: oComponent
+					}).placeAt("root");
+				});
+			});
+		});
+	</script>
+</head>
+<body class="sapUiBody" id="root" role="application"></body>
+</body>
+</html>

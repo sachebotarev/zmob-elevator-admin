@@ -1,0 +1,70 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PurchaseOrderSet('4500001964%2F00010')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PurchaseOrderSet('4500001964%2F00010')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PurchaseOrder"
+ 		},
+ 		"Id": "4500001964/00010",
+ 		"СreditorId": "1000000057",
+ 		"PlantId": "3101",
+ 		"StorageId": "",
+ 		"MaterialId": "4100000050",
+ 		"SpecialStockId": "",
+ 		"OwnerId": "",
+ 		"OpenQuantity": "50000.000",
+ 		"Unit": "КГ",
+ 		"DocDateStartAt": null,
+ 		"DocDateFinishAt": null,
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20190117142642"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PurchaseOrderSet('4500001964%2F00020')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PurchaseOrderSet('4500001964%2F00020')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PurchaseOrder"
+ 		},
+ 		"Id": "4500001964/00020",
+ 		"СreditorId": "1000000057",
+ 		"PlantId": "3101",
+ 		"StorageId": "",
+ 		"MaterialId": "4100000050",
+ 		"SpecialStockId": "",
+ 		"OwnerId": "",
+ 		"OpenQuantity": "9600.000",
+ 		"Unit": "КГ",
+ 		"DocDateStartAt": null,
+ 		"DocDateFinishAt": null,
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20190117142642"
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PurchaseOrderSet('4500001965%2F00010')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PurchaseOrderSet('4500001965%2F00010')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PurchaseOrder"
+ 		},
+ 		"Id": "4500001965/00010",
+ 		"СreditorId": "1000000057",
+ 		"PlantId": "3101",
+ 		"StorageId": "31010300",
+ 		"MaterialId": "4100000050",
+ 		"SpecialStockId": "0040000398/000020",
+ 		"OwnerId": "1000000018",
+ 		"OpenQuantity": "19900.000",
+ 		"Unit": "КГ",
+ 		"DocDateStartAt": null,
+ 		"DocDateFinishAt": null,
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "                 20190117142642"
+ 	}
+ ]

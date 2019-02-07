@@ -1,0 +1,192 @@
+[
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "",
+		"Name": "",
+		"FundId": "",
+		"PlantId": "3101",
+		"StorageId": "3101PO01",
+		"MaterialId": "Y16012009",
+		"SpecialStockId": "0050000009/000030",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "1",
+		"Name": "ФИЗ.ЛИЦО (пайщ.)",
+		"FundId": "",
+		"PlantId": "3100",
+		"StorageId": "31000611",
+		"MaterialId": "P-0004-14",
+		"SpecialStockId": "0000000243/000010",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000018')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000018')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "1000000018",
+		"Name": "АгроТрейдинг Лтд ООО",
+		"FundId": "",
+		"PlantId": "",
+		"StorageId": "",
+		"MaterialId": "",
+		"SpecialStockId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000019')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000019')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "1000000019",
+		"Name": "Агро-31 ООО",
+		"FundId": "",
+		"PlantId": "",
+		"StorageId": "",
+		"MaterialId": "",
+		"SpecialStockId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000021')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000021')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "1000000021",
+		"Name": "Агроресурс ООО",
+		"FundId": "",
+		"PlantId": "",
+		"StorageId": "",
+		"MaterialId": "",
+		"SpecialStockId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000042')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000042')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "1000000042",
+		"Name": "Михаил Мамонтов",
+		"FundId": "",
+		"PlantId": "",
+		"StorageId": "",
+		"MaterialId": "",
+		"SpecialStockId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000051')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000051')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "1000000051",
+		"Name": "Агротехнологии",
+		"FundId": "2",
+		"PlantId": "3121",
+		"StorageId": "3102PO01",
+		"MaterialId": "Y18025007",
+		"SpecialStockId": "0000000074/000010",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000057')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000000057')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "1000000057",
+		"Name": "ООО \"АгроТехноТрейд\"",
+		"FundId": "1",
+		"PlantId": "3121",
+		"StorageId": "",
+		"MaterialId": "",
+		"SpecialStockId": "0000000096/000010",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000003034')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('1000003034')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "1000003034",
+		"Name": "Limeniko Trade Limeniko Trade",
+		"FundId": "",
+		"PlantId": "",
+		"StorageId": "",
+		"MaterialId": "",
+		"SpecialStockId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('2000000004')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OwnerSet('2000000004')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Owner"
+		},
+		"Id": "2000000004",
+		"Name": "Петров Иван Петрович",
+		"FundId": "",
+		"PlantId": "",
+		"StorageId": "",
+		"MaterialId": "",
+		"SpecialStockId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	}
+]

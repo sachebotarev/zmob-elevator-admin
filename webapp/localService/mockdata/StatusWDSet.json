@@ -1,0 +1,72 @@
+[
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('1')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('1')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.StatusWD"
+		},
+		"Id": "1",
+		"Name": "Создается",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('2')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('2')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.StatusWD"
+		},
+		"Id": "2",
+		"Name": "На территории",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('3')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('3')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.StatusWD"
+		},
+		"Id": "3",
+		"Name": "Обработано",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('4')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('4')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.StatusWD"
+		},
+		"Id": "4",
+		"Name": "Неполные данные",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('5')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StatusWDSet('5')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.StatusWD"
+		},
+		"Id": "5",
+		"Name": "Ошибка передачи данных",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	}
+]

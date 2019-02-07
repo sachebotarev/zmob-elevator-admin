@@ -1,0 +1,1306 @@
+[{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('1250')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('1250')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "1250",
+		"Name": "ПН Приморская нива",
+		"Address": "692525, г. Уссурийск, ул. Волочаевская, д. 120",
+		"Okpo": "",
+		"CompanyCodeName": "ООО \"Приморская Нива\"",
+		"CompanyCodeId": "1250",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('1250')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('1250')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2500')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2500')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "2500",
+		"Name": "ПрА Управ.компания и логистика",
+		"Address": "692519, г. Уссурийск, ул. Тимирязева, д. 8",
+		"Okpo": "00486876",
+		"CompanyCodeName": "АО \"ПримАгро\"",
+		"CompanyCodeId": "2500",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2500')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2500')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2501')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2501')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "2501",
+		"Name": "ПрА ПО №1 Воздвиженское",
+		"Address": ", , ,",
+		"Okpo": "00486876",
+		"CompanyCodeName": "АО \"ПримАгро\"",
+		"CompanyCodeId": "2500",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2501')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2501')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2502')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2502')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "2502",
+		"Name": "ПрА ПО №2 Степнянское",
+		"Address": ", , ,",
+		"Okpo": "00486876",
+		"CompanyCodeName": "АО \"ПримАгро\"",
+		"CompanyCodeId": "2500",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2502')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2502')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2503')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2503')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "2503",
+		"Name": "ПрА ПО №3 Поповское",
+		"Address": ", , ,",
+		"Okpo": "00486876",
+		"CompanyCodeName": "АО \"ПримАгро\"",
+		"CompanyCodeId": "2500",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2503')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2503')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2504')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2504')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "2504",
+		"Name": "ПрА ПО №4 Жариковское",
+		"Address": ", , ,",
+		"Okpo": "00486876",
+		"CompanyCodeName": "АО \"ПримАгро\"",
+		"CompanyCodeId": "2500",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2504')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2504')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2531')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2531')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "2531",
+		"Name": "ПрА Научный центр",
+		"Address": "692519, г. Уссурийск, ул. Тимирязева, д. 8",
+		"Okpo": "00486876",
+		"CompanyCodeName": "АО \"ПримАгро\"",
+		"CompanyCodeId": "2500",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2531')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('2531')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"Address": "308002, г. Белгород,  пр-кт Б. Хмельницкого, 111",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0006",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"Address": "308002, г. Белгород,  пр-кт Б. Хмельницкого, 111",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0006",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"Address": "308002, г. Белгород,  пр-кт Б. Хмельницкого, 111",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0006",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"Address": "308002, г. Белгород,  пр-кт Б. Хмельницкого, 111",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0006",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"Address": "308002, г. Белгород,  пр-кт Б. Хмельницкого, 111",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0006",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"Address": "308002, г. Белгород,  пр-кт Б. Хмельницкого, 111",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0006",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3100",
+		"Name": "РАИ Управ.компания и логистика",
+		"Address": "308002, г. Белгород,  пр-кт Б. Хмельницкого, 111",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0006",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3100')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3101",
+		"Name": "РАИ ПО №1 Чернянское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0002",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3101",
+		"Name": "РАИ ПО №1 Чернянское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0002",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3101",
+		"Name": "РАИ ПО №1 Чернянское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0002",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3101",
+		"Name": "РАИ ПО №1 Чернянское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0002",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3101')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3102')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3102')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3102",
+		"Name": "РАИ ПО №2 Истобнянское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0012",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3102')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3102')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3104')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3104')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3104",
+		"Name": "РАИ ПО №4 Закутское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0013",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3104')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3104')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3106')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3106')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3106",
+		"Name": "РАИ ПО №6 Казинское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3106')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3106')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3107')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3107')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3107",
+		"Name": "РАИ ПО №7 Белоколодезянское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3107')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3107')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3108')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3108')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3108",
+		"Name": "РАИ ПО №8 Ютановское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3108')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3108')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3110')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3110')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3110",
+		"Name": "РАИ ПО №10 Веселовское",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3110')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3110')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3121",
+		"Name": "РАИ Элеватор Шебекино",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0001",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3121",
+		"Name": "РАИ Элеватор Шебекино",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0001",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3121",
+		"Name": "РАИ Элеватор Шебекино",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "0001",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3121')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3122')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3122')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3122",
+		"Name": "РАИ Элеватор Чаплыженский",
+		"Address": ", , ,",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3122')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3122')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3131')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3131')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "3131",
+		"Name": "РАИ Научный центр",
+		"Address": "308002, г. Белгород, пр-т Б. Хмельницкого, д. 111",
+		"Okpo": "98441990",
+		"CompanyCodeName": "ООО \"Русагро-Инвест\"",
+		"CompanyCodeId": "3100",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3131')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('3131')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4600')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4600')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "4600",
+		"Name": "КшА Управ.компания и логистика",
+		"Address": ", , ,",
+		"Okpo": "",
+		"CompanyCodeName": "ООО «Кшеньагро»",
+		"CompanyCodeId": "4600",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4600')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4600')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4601')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4601')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "4601",
+		"Name": "КшА ПО №1 Кшень",
+		"Address": ", , ,",
+		"Okpo": "",
+		"CompanyCodeName": "ООО «Кшеньагро»",
+		"CompanyCodeId": "4600",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4601')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4601')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4602')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4602')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "4602",
+		"Name": "КшА ПО №2 Кривец",
+		"Address": ", , ,",
+		"Okpo": "",
+		"CompanyCodeName": "ООО «Кшеньагро»",
+		"CompanyCodeId": "4600",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4602')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4602')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4631')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4631')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "4631",
+		"Name": "КША Научный центр",
+		"Address": "306600, Советский р-н, рп Кшенский, ул. Заводская, д. 18",
+		"Okpo": "",
+		"CompanyCodeName": "ООО «Кшеньагро»",
+		"CompanyCodeId": "4600",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4631')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('4631')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5700')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5700')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "5700",
+		"Name": "ОтА Управ.компания и логистика",
+		"Address": ", , ,",
+		"Okpo": "",
+		"CompanyCodeName": "ООО «Отрадаагроинвест»",
+		"CompanyCodeId": "5700",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5700')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5700')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5701')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5701')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "5701",
+		"Name": "ОтА ПО №1 Мценск",
+		"Address": ", , ,",
+		"Okpo": "",
+		"CompanyCodeName": "ООО «Отрадаагроинвест»",
+		"CompanyCodeId": "5700",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5701')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5701')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5702')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5702')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "5702",
+		"Name": "ОтА ПО №2 Нечаево",
+		"Address": ", , ,",
+		"Okpo": "",
+		"CompanyCodeName": "ООО «Отрадаагроинвест»",
+		"CompanyCodeId": "5700",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5702')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('5702')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6800')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6800')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6800",
+		"Name": "АГТ Управ.компания и логистика",
+		"Address": ", , ,",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6800')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6800')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6801')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6801')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6801",
+		"Name": "АГТ ПО №1 Жердевское",
+		"Address": ", , ,",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6801')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6801')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6803')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6803')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6803",
+		"Name": "АГТ ПО №3 Дмитриевское",
+		"Address": ", , ,",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6803')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6803')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6804')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6804')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6804",
+		"Name": "АГТ ПО №4 Тамбовское",
+		"Address": ", , ,",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6804')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6804')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6806')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6806')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6806",
+		"Name": "АГТ ПО №6 Знаменское",
+		"Address": ", , ,",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6806')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6806')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6821')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6821')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6821",
+		"Name": "АГТ Элеватор Жердевский",
+		"Address": ", , ,",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6821')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6821')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6822')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6822')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6822",
+		"Name": "АГТ Элеватор Дмитриевский",
+		"Address": ", , ,",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6822')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6822')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6823')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6823')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6823",
+		"Name": "АГТ Элеватор Борщевое",
+		"Address": "393672, Жердевский р-н, г. Жердевка, ул. Заводская, д. 28А",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6823')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6823')/StorageSet"
+			}
+		}
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6831')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6831')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Plant"
+		},
+		"Id": "6831",
+		"Name": "АГТ Научный центр",
+		"Address": "393672, Жердевский р-н, г. Жердевка, ул. Заводская, д. 28А",
+		"Okpo": "14310554",
+		"CompanyCodeName": "ООО \"Агротехнологии\"",
+		"CompanyCodeId": "6800",
+		"InstallationId": "",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": "",
+		"UserSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6831')/UserSet"
+			}
+		},
+		"StorageSet": {
+			"__deferred": {
+				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlantSet('6831')/StorageSet"
+			}
+		}
+	}
+]

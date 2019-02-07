@@ -1,0 +1,262 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013190')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013190')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013190",
+ 		"Name": "BL-01-01-01-0001-013190 свекла 190",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013190')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013190')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013191')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013191')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013191",
+ 		"Name": "BL-01-01-01-0001-013191 Сах.свекла 191",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013191')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013191')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013192')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013192')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013192",
+ 		"Name": "BL-01-01-01-0001-013192 свекла 192",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013192')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013192')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013193')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013193')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013193",
+ 		"Name": "BL-01-01-01-0001-013191 Сах.свекла 193",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013193')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013193')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013194')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013194')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013194",
+ 		"Name": "BL-01-01-01-0001-013194 Сах.свекла 194",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013194')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013194')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013195')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013195')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013195",
+ 		"Name": "BL-01-01-01-0001-013195 Сах.свекла 195",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013195')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013195')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013196')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013196')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013196",
+ 		"Name": "BL-01-01-01-0001-013196 Озим. пшеница У",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013196')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013196')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013197')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013197')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013197",
+ 		"Name": "BL-01-01-01-0001-013197 Сах.свекла 197",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013197')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013197')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013198')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013198')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Field"
+ 		},
+ 		"Id": "BL-01-01-01-0001-013198",
+ 		"Name": "BL-01-01-01-0001-013198 Сах.свекла 198",
+ 		"PlantId": "3101",
+ 		"CompanyCodeId": "",
+ 		"MaterialId": "Y140130003",
+ 		"DocDateStartAt": "\/Date(1546290000000)\/",
+ 		"DocDateFinishAt": "\/Date(1577825999000)\/",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Material": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013198')/Material"
+ 			}
+ 		},
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/FieldSet('BL-01-01-01-0001-013198')/Plant"
+ 			}
+ 		}
+ 	}
+ ]

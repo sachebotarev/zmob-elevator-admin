@@ -1,0 +1,2683 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('1600000031')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('1600000031')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "1600000031",
+ 		"Name": "Семена пшеницы Белгородская раскрасавица",
+ 		"PlantId": "3101",
+ 		"Year": "2018",
+ 		"Unit": "ПЕД",
+ 		"Kind": "ZSPM",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('1600000041')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('1600000041')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "1600000041",
+ 		"Name": "Семена пшеницы\"Ахат\" Круизер 10",
+ 		"PlantId": "3101",
+ 		"Year": "2018",
+ 		"Unit": "ПЕД",
+ 		"Kind": "ZSPM",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('4100000050')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('4100000050')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "4100000050",
+ 		"Name": "Пшеница озимая",
+ 		"PlantId": "3101",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZTOV",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('9000000061')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('9000000061')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "9000000061",
+ 		"Name": "НЕГОДНЫЕ ОТХОДЫ 2018Г",
+ 		"PlantId": "3121",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZNOT",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('P-0001-19')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('P-0001-19')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "P-0001-19",
+ 		"Name": "Пшеница 3 класс 2014 год",
+ 		"PlantId": "D300",
+ 		"Year": "0200",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('P-0044-14')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('P-0044-14')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "P-0044-14",
+ 		"Name": "Ячмень пивоваренный",
+ 		"PlantId": "3100",
+ 		"Year": "0200",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0003-00')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0003-00')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0003-00",
+ 		"Name": "ОЗИМАЯ ПШЕНИЦА СОБСТВЕННАЯ",
+ 		"PlantId": "3100",
+ 		"Year": "2000",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0003-15')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0003-15')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0003-15",
+ 		"Name": "Семена оз пшеницы Крастал 2014 г",
+ 		"PlantId": "2500",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0003-16')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0003-16')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0003-16",
+ 		"Name": "Семена оз пшеницы Крастал 2014г",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0003-17')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0003-17')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0003-17",
+ 		"Name": "Семена оз пшеницы Крастал 2014г",
+ 		"PlantId": "3101",
+ 		"Year": "2017",
+ 		"Unit": "Т",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0004-15')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0004-15')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0004-15",
+ 		"Name": "Зерноотходы сем пшеницы 2014г - 10 - 20%",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0005-15')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0005-15')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0005-15",
+ 		"Name": "Отходы гречихи",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0006-15')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0006-15')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0006-15",
+ 		"Name": "Отходы пшеницы",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0007-15')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0007-15')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0007-15",
+ 		"Name": "Отходы ячменя",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0011-15')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0011-15')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0011-15",
+ 		"Name": "Семена оз пшеницы Крастал 2015г",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0012-15')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0012-15')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0012-15",
+ 		"Name": "Семена оз пшеницы Крастал 2015г",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0031-14')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0031-14')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0031-14",
+ 		"Name": "СЕМЕНА ЯЧМЕНЯ СВЯТИЧ 2014Г",
+ 		"PlantId": "3107",
+ 		"Year": "2014",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0055-16')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0055-16')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0055-16",
+ 		"Name": "СЕМЕНА ГОРОХА ГОТИК РС2 2016",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0056-16')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0056-16')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0056-16",
+ 		"Name": "СЕМЕНА ГОРОХА ГОТИК РС3 2016",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0061-16')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0061-16')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0061-16",
+ 		"Name": "Семена оз пшеницы",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0176-16')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0176-16')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0176-16",
+ 		"Name": "__СЕМЕНА ЯЧМЕНЯ МАРГРЕТ РС3 2016Г",
+ 		"PlantId": "3199",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0176-17')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('S-0176-17')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "S-0176-17",
+ 		"Name": "__СЕМЕНА ПШЕНИЦЫ ОЗИМОЙ 2017г.",
+ 		"PlantId": "3199",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZSPS",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('VT03501001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('VT03501001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "VT03501001",
+ 		"Name": "Посев с вспомогтальными операциями",
+ 		"PlantId": "3199",
+ 		"Year": "0200",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('VT03501002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('VT03501002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "VT03501002",
+ 		"Name": "Посев с вспомогтальными операциями 2",
+ 		"PlantId": "3101",
+ 		"Year": "0200",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y000000010')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y000000010')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y000000010",
+ 		"Name": "Ячмень самый вкусный 2015",
+ 		"PlantId": "3100",
+ 		"Year": "2000",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y00012')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y00012')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y00012",
+ 		"Name": "Пшеница озимая",
+ 		"PlantId": "3101",
+ 		"Year": "2000",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y130080001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y130080001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y130080001",
+ 		"Name": "Горчица 2013г",
+ 		"PlantId": "3100",
+ 		"Year": "2013",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140010001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140010001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140010001",
+ 		"Name": "Озимая пшеница Материал Продукт 14-1",
+ 		"PlantId": "3100",
+ 		"Year": "2014",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140010002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140010002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140010002",
+ 		"Name": "Озимая пшеница Материал Продукт 14-1",
+ 		"PlantId": "3101",
+ 		"Year": "2014",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140010998')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140010998')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140010998",
+ 		"Name": "Озимая пшеница Материал Продукт 14-1",
+ 		"PlantId": "3100",
+ 		"Year": "2014",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140010999')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140010999')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140010999",
+ 		"Name": "Озимая пшеница Материал Продукт 14-1",
+ 		"PlantId": "3100",
+ 		"Year": "2014",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140080001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140080001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140080001",
+ 		"Name": "Горчица 2014г",
+ 		"PlantId": "3100",
+ 		"Year": "2014",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140120003')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140120003')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140120003",
+ 		"Name": "СОЯ ГП 15-3",
+ 		"PlantId": "3100",
+ 		"Year": "2014",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140130004')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140130004')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140130004",
+ 		"Name": "Сахарная Свекла ГП 14-5",
+ 		"PlantId": "Z300",
+ 		"Year": "2014",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140130013')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140130013')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140130013",
+ 		"Name": "Сах свекла в КГ",
+ 		"PlantId": "3100",
+ 		"Year": "2014",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140250002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140250002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140250002",
+ 		"Name": "ячмень комовой 14_2",
+ 		"PlantId": "3101",
+ 		"Year": "2014",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140250012')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y140250012')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y140250012",
+ 		"Name": "зеленый есть 14-1",
+ 		"PlantId": "3102",
+ 		"Year": "2014",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150010001",
+ 		"Name": "Озимая пшеница 15-1",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150010002",
+ 		"Name": "Озимая пшеница 15-1",
+ 		"PlantId": "3121",
+ 		"Year": "2015",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010003')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010003')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150010003",
+ 		"Name": "Кукуруза кормовая 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010004')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010004')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150010004",
+ 		"Name": "Кукуруза на зерно 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010009')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010009')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150010009",
+ 		"Name": "Озимая пшеница",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150010011",
+ 		"Name": "Озимая пшеница Материал Продукт 14-1",
+ 		"PlantId": "6821",
+ 		"Year": "2015",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010012')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010012')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150010012",
+ 		"Name": "Озимая пшеница Материал Продукт 14-2",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010099')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150010099')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150010099",
+ 		"Name": "Озимая пшеница Материал Продукт 14-2",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150020001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150020001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150020001",
+ 		"Name": "Кукуруза на зерно (для плющения) 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150030001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150030001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150030001",
+ 		"Name": "Кукуруза на зеленый корм и силос 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150030002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150030002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150030002",
+ 		"Name": "Силос 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040001",
+ 		"Name": "Донник 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040002",
+ 		"Name": "Зеленая масса многолетних трав на з/к 20",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040003')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040003')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040003",
+ 		"Name": "Зеленая масса многолетних трав на сенаж",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040004')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040004')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040004",
+ 		"Name": "Райграс 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040005')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040005')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040005",
+ 		"Name": "Сено многолетних трав 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040006')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040006')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040006",
+ 		"Name": "Эспарцет 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040007')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040007')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040007",
+ 		"Name": "Сенаж многолетних трав 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040012')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040012')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040012",
+ 		"Name": "ЗЕЛЕНАЯ МАССА МНОГОЛЕТНИХ ТРАВ НА З/К",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040013')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150040013')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150040013",
+ 		"Name": "ЗЕЛЕНАЯ МАССА МНОГОЛЕТНИХ ТРАВ НА СЕНАЖ",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150050001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150050001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150050001",
+ 		"Name": "Зерноотходы нута 2015г - 10 - 20%",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150050002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150050002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150050002",
+ 		"Name": "Нут 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150060001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150060001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150060001",
+ 		"Name": "Овес 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150070001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150070001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150070001",
+ 		"Name": "Зеленая масса однолетних трав на сенаж 2",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150080001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150080001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150080001",
+ 		"Name": "Горчица 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150090002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150090002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150090002",
+ 		"Name": "Гречиха 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150090003')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150090003')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150090003",
+ 		"Name": "Зерноотходы гречихи 2015г - 20 - 30%",
+ 		"PlantId": "6800",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150090004')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150090004')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150090004",
+ 		"Name": "Зерноотходы гречихи 2015г - до 10%",
+ 		"PlantId": "6800",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150090099')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150090099')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150090099",
+ 		"Name": "Гречиха 2015г(2)",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150099999')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150099999')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150099999",
+ 		"Name": "Гречиха 2015г(KG)",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150110001",
+ 		"Name": "Зерноотходы подсолнечника 2015г  10,1-20",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150110002",
+ 		"Name": "Зерноотходы подсолнечника 2015г до10%",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110003')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110003')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150110003",
+ 		"Name": "Пшеница",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110004')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110004')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150110004",
+ 		"Name": "Подсолнечник нестандартный 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110005')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110005')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150110005",
+ 		"Name": "Пшеница 01.12.2016",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110006')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110006')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150110006",
+ 		"Name": "Пшеница 2",
+ 		"PlantId": "3102",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110007')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110007')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150110007",
+ 		"Name": "Пшеница 3",
+ 		"PlantId": "3102",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110008')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150110008')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150110008",
+ 		"Name": "Пшеница 4",
+ 		"PlantId": "3103",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120001",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 10 - 20%",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120002",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 20 - 30%",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120003')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120003')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120003",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 30 - 40%",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120004')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120004')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120004",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 40 - 50%",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120005')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120005')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120005",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 50 - 60%",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120006')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120006')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120006",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - до 10%",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120007')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120007')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120007",
+ 		"Name": "Пшеница 3 класса 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120008')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120008')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120008",
+ 		"Name": "Пшеница 4 класс  2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120009')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120009')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120009",
+ 		"Name": "Пшеница 5 класс 2015г",
+ 		"PlantId": "2501",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15012001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15012001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y15012001",
+ 		"Name": "Озимая пшеница 15-1",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120010')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120010')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120010",
+ 		"Name": "Пшеница кормовая 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120011",
+ 		"Name": "Пшеница озимая 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120011Y')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120011Y')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120011Y",
+ 		"Name": "Пшеница озимая 2015г",
+ 		"PlantId": "3102",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120011Z')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120011Z')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120011Z",
+ 		"Name": "Пшеница озимая 2015г",
+ 		"PlantId": "3102",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120012')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150120012')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150120012",
+ 		"Name": "Солома пшеничная 2015г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15012002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15012002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y15012002",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ 2015Г",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129991')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129991')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150129991",
+ 		"Name": "Зерноотходы шеницы 2015г - 10 - 20%(KG)",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129992')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129992')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150129992",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 20 - 30%",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129993')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129993')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150129993",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 30 - 40%",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129994')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129994')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150129994",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 40 - 50%",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129995')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150129995')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150129995",
+ 		"Name": "Зерноотходы оз. пшеницы 2015г - 50 - 60%",
+ 		"PlantId": "3100",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150130025')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150130025')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150130025",
+ 		"Name": "Сахарная Свекла ГП 15 - 25",
+ 		"PlantId": "3103",
+ 		"Year": "2015",
+ 		"Unit": "Т",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15015001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15015001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y15015001",
+ 		"Name": "ГОРОХ 2015Г",
+ 		"PlantId": "3121",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150170001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150170001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150170001",
+ 		"Name": "Свекла",
+ 		"PlantId": "3102",
+ 		"Year": "2015",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15017001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15017001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y15017001",
+ 		"Name": "Озимая пшеница 15-1",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "ТОН",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15017011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15017011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y15017011",
+ 		"Name": "Сидеральный пар 2015",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15018011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15018011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y15018011",
+ 		"Name": "Внесение дефеката 2015",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15018012')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y15018012')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y15018012",
+ 		"Name": "Внесение дефеката 2015 2",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150250019')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150250019')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150250019",
+ 		"Name": "ЯЧМЕНЬ 2015 КГ",
+ 		"PlantId": "3101",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150250020')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y150250020')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y150250020",
+ 		"Name": "ЯЧМЕНЬ КОРМОВОЙ 2015 КГ",
+ 		"PlantId": "3102",
+ 		"Year": "2015",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y160010001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y160010001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y160010001",
+ 		"Name": "Кукуруза на зерно 2016г",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012001",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г 10-20%",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012002",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г 20-30%",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012003')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012003')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012003",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г 30-40%",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012004')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012004')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012004",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г 40-50%",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012005')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012005')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012005",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г 50-60%",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012006')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012006')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012006",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г ДО 10%",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012009')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012009')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012009",
+ 		"Name": "ПШЕНИЦА 5 КЛАССА 2016Г",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012011",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ 2016Г",
+ 		"PlantId": "3104",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012013')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012013')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012013",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ ЛЬГОВСКАЯ РС1 2016Г",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012014')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012014')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012014",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ МОСКОВСКАЯ-40 РС2 2016Г",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012015')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012015')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012015",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ ЛЬГОВСКАЯ РС1 2016Г",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012016')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16012016')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16012016",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ МОСКОВСКАЯ-40 РС2 2016Г",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16013001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16013001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16013001",
+ 		"Name": "ПШЕНИЦА ЯРОВАЯ 2016Г",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16022006')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16022006')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16022006",
+ 		"Name": "СОЯ 2016Г",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16025001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16025001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16025001",
+ 		"Name": "ЗЕРНООТХОДЫ ЯЧМЕНЯ 2016Г 10-20%",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16025007')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16025007')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16025007",
+ 		"Name": "Ячмень 2016",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16025009')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16025009')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16025009",
+ 		"Name": "ЯЧМЕНЬ пивоваренный 2016 КГ",
+ 		"PlantId": "3100",
+ 		"Year": "2016",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16999')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y16999')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y16999",
+ 		"Name": "Затраты прошлых лет",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y169991')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y169991')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y169991",
+ 		"Name": "Затраты 2016 прошлых лет 1",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y169999')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y169999')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y169999",
+ 		"Name": "Внесение дефеката конф",
+ 		"PlantId": "3101",
+ 		"Year": "2016",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012006')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012006')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17012006",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г ДО 10%",
+ 		"PlantId": "3101",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012007')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012007')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17012007",
+ 		"Name": "ПШЕНИЦА 3 КЛАСС 2017г",
+ 		"PlantId": "3102",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012008')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012008')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17012008",
+ 		"Name": "ПШЕНИЦА 4 КЛАСС 2017Г",
+ 		"PlantId": "3102",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012009')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012009')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17012009",
+ 		"Name": "ПШЕНИЦА 5 КЛАСС 2017Г",
+ 		"PlantId": "3121",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17012011",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ 2017Г",
+ 		"PlantId": "3102",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012012')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012012')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17012012",
+ 		"Name": "Пшеница 2017 г - тест",
+ 		"PlantId": "3101",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012013')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012013')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17012013",
+ 		"Name": "Пшеница 2017 г - тест2",
+ 		"PlantId": "3101",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012016')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17012016')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17012016",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ 2017Г ТЕСТ",
+ 		"PlantId": "3102",
+ 		"Year": "2017",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17999')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y17999')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y17999",
+ 		"Name": "Затраты 2017",
+ 		"PlantId": "3101",
+ 		"Year": "2017",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y179991')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y179991')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y179991",
+ 		"Name": "Затраты 2017 прошлых лет 1",
+ 		"PlantId": "3101",
+ 		"Year": "2017",
+ 		"Unit": "ГА",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18001002')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18001002')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18001002",
+ 		"Name": "КУКУРУЗА НА ЗЕРНО 2018Г",
+ 		"PlantId": "3101",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18009001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18009001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18009001",
+ 		"Name": "ГРЕЧИХА 2018Г",
+ 		"PlantId": "3102",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18011003')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18011003')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18011003",
+ 		"Name": "Подсолнечник 2018Г",
+ 		"PlantId": "3121",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012005')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012005')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18012005",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г 10-30%",
+ 		"PlantId": "3101",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012006')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012006')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18012006",
+ 		"Name": "ЗЕРНООТХОДЫ ПШЕНИЦЫ ОЗ 2016Г ДО 10%",
+ 		"PlantId": "3101",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012007')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012007')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18012007",
+ 		"Name": "ПШЕНИЦА 3 КЛАСС 2018г",
+ 		"PlantId": "3121",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18012011",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ 2018Г",
+ 		"PlantId": "3100",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012012')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18012012')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18012012",
+ 		"Name": "ПШЕНИЦА ОЗИМАЯ 2018Г",
+ 		"PlantId": "3101",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18013001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18013001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18013001",
+ 		"Name": "ПШЕНИЦА ЯРОВАЯ 2018Г",
+ 		"PlantId": "3101",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18017001')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18017001')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18017001",
+ 		"Name": "СВЕКЛА САХАРНАЯ ФАБРИЧНАЯ 2018Г",
+ 		"PlantId": "3102",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18022006')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18022006')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18022006",
+ 		"Name": "СОЯ 2018Г",
+ 		"PlantId": "3102",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18025007')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y18025007')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y18025007",
+ 		"Name": "ЯЧМЕНЬ 2018Г",
+ 		"PlantId": "Z321",
+ 		"Year": "2018",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y19012011')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/MaterialSet('Y19012011')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Material"
+ 		},
+ 		"Id": "Y19012011",
+ 		"Name": "Пшеница озимая 2019",
+ 		"PlantId": "3101",
+ 		"Year": "2019",
+ 		"Unit": "КГ",
+ 		"Kind": "ZY00",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	}
+ ]

@@ -1,0 +1,301 @@
+[{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='01',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='01',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "01",
+		"PlantId": "3121",
+		"Name": "20201",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='02',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='02',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "02",
+		"PlantId": "3121",
+		"Name": "20301",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='03',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='03',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "03",
+		"PlantId": "3121",
+		"Name": "40705",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='04',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='04',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "04",
+		"PlantId": "3121",
+		"Name": "40605",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='05',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='05',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "05",
+		"PlantId": "3121",
+		"Name": "41004",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='06',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='06',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "06",
+		"PlantId": "3121",
+		"Name": "41104",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='07',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='07',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "07",
+		"PlantId": "3121",
+		"Name": "41005",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='08',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='08',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "08",
+		"PlantId": "3121",
+		"Name": "41105",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='09',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='09',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "09",
+		"PlantId": "3121",
+		"Name": "21003",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='10',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='10',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "10",
+		"PlantId": "3121",
+		"Name": "21002",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='11',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='11',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "11",
+		"PlantId": "3121",
+		"Name": "20303",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='12',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='12',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "12",
+		"PlantId": "3121",
+		"Name": "20202",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='13',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='13',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "13",
+		"PlantId": "3121",
+		"Name": "30602",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='14',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='14',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "14",
+		"PlantId": "3121",
+		"Name": "10611",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='15',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='15',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "15",
+		"PlantId": "3121",
+		"Name": "ДСП-50",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='16',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='16',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "16",
+		"PlantId": "3121",
+		"Name": "30202",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='17',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='17',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "17",
+		"PlantId": "3121",
+		"Name": "Склад №14,15,16,4",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='18',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='18',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "18",
+		"PlantId": "3121",
+		"Name": "ДСП-50 элеватор",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='19',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='19',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "19",
+		"PlantId": "3121",
+		"Name": "Склад №5,9,10,11,17, пл.10,11",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	},
+	{
+		"__metadata": {
+			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='20',PlantId='3121')",
+			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/PlaceUnloadSet(Id='20',PlantId='3121')",
+			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.PlaceUnload"
+		},
+		"Id": "20",
+		"PlantId": "3121",
+		"Name": "СОБ-32, ДСП-50 элеватор",
+		"CreateAt": null,
+		"CreateBy": "",
+		"ChangeBy": "",
+		"ChangeAt": null,
+		"Etag": ""
+	}
+]

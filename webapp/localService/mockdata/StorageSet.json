@@ -1,0 +1,1351 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000411')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000411')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000411",
+ 		"StorageId": "0411",
+ 		"PlantId": "3100",
+ 		"Name": "ЗернП 1 Ездочное",
+ 		"Address": ", , ,",
+ 		"RespName": "Сюркова В.В.",
+ 		"RespPost": "Кладовщик",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000411')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000412')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000412')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000412",
+ 		"StorageId": "0412",
+ 		"PlantId": "3100",
+ 		"Name": "ЗернП 2 Липяги",
+ 		"Address": ", , ,",
+ 		"RespName": "Лобынцев А.И.",
+ 		"RespPost": "Кладовщик",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "0008",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000412')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010301')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010301')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31010301",
+ 		"StorageId": "0301",
+ 		"PlantId": "3101",
+ 		"Name": "СемТок 1 Малотро",
+ 		"Address": ", , ,",
+ 		"RespName": "Золочевская Л.А.",
+ 		"RespPost": "Кладовщик",
+ 		"HeadName": "Сливченко А.А.",
+ 		"LabName": "Киянова Г.М.",
+ 		"InstallationId": "0003",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010301')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010302')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010302')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31010302",
+ 		"StorageId": "0302",
+ 		"PlantId": "3101",
+ 		"Name": "СемТОК Рыженко",
+ 		"Address": ", , ,",
+ 		"RespName": "Рыженко В.Н.",
+ 		"RespPost": "Заведующий током",
+ 		"HeadName": "Сливченко А.А.",
+ 		"LabName": "Киянова Г.М.",
+ 		"InstallationId": "0004",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010302')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020301')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020301')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31020301",
+ 		"StorageId": "0301",
+ 		"PlantId": "3102",
+ 		"Name": "СемТок 2 Истобно",
+ 		"Address": ", , ,",
+ 		"RespName": "Цыганкова Л.Е.",
+ 		"RespPost": "Кладовщик",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "0012",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020301')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020302')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020302')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31020302",
+ 		"StorageId": "0302",
+ 		"PlantId": "3102",
+ 		"Name": "СемТок 2 Огибное",
+ 		"Address": ", , ,",
+ 		"RespName": "Михнева Г.М.",
+ 		"RespPost": "Заведующий током",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020302')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020303')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020303')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31020303",
+ 		"StorageId": "0303",
+ 		"PlantId": "3102",
+ 		"Name": "СемТОК Огибное",
+ 		"Address": ", , ,",
+ 		"RespName": "Санькова Н.М.",
+ 		"RespPost": "Кладовщик",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31020303')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040301')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040301')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31040301",
+ 		"StorageId": "0301",
+ 		"PlantId": "3104",
+ 		"Name": "СемТОК Зак Зуева",
+ 		"Address": ", , ,",
+ 		"RespName": "Зуева И.П.",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040301')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040302')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040302')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31040302",
+ 		"StorageId": "0302",
+ 		"PlantId": "3104",
+ 		"Name": "СемТОК Зак Тарас",
+ 		"Address": ", , ,",
+ 		"RespName": "Тарасов П.И.",
+ 		"RespPost": "Заведующий током",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040302')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040303')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040303')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31040303",
+ 		"StorageId": "0303",
+ 		"PlantId": "3104",
+ 		"Name": "СемТОК Куб Тарас",
+ 		"Address": ", , ,",
+ 		"RespName": "Тарасов П.И.",
+ 		"RespPost": "Заведующий током",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040303')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31060301')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31060301')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31060301",
+ 		"StorageId": "0301",
+ 		"PlantId": "3106",
+ 		"Name": "СемСкл Леоновка",
+ 		"Address": ", , ,",
+ 		"RespName": "Слюняева Л.А.",
+ 		"RespPost": "Кладовщик",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31060301')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31080301')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31080301')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31080301",
+ 		"StorageId": "0301",
+ 		"PlantId": "3108",
+ 		"Name": "СемТОК Тишанка",
+ 		"Address": ", , ,",
+ 		"RespName": "Королева Т.Н.",
+ 		"RespPost": "Заведующий током",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31080301')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31100301')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31100301')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31100301",
+ 		"StorageId": "0301",
+ 		"PlantId": "3110",
+ 		"Name": "СемТОК Веселое",
+ 		"Address": ", , ,",
+ 		"RespName": "Яценко В.М.",
+ 		"RespPost": "Кладовщик",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31100301')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210401')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210401')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31210401",
+ 		"StorageId": "0401",
+ 		"PlantId": "3121",
+ 		"Name": "СклНапХр Шебекин",
+ 		"Address": "309292, г.Шебекино, Урожайная, 20",
+ 		"RespName": "Федорин Сергей Дмитриевич",
+ 		"RespPost": "",
+ 		"HeadName": "Сливченко А.А.",
+ 		"LabName": "Киянова Г.М.",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210401')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210402')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210402')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31210402",
+ 		"StorageId": "0402",
+ 		"PlantId": "3121",
+ 		"Name": "Элев Шебекино",
+ 		"Address": "309292, г.Шебекино, Урожайная, 20",
+ 		"RespName": "Гарбузов Юрий Алексеевич",
+ 		"RespPost": "",
+ 		"HeadName": "Сливченко А.А.",
+ 		"LabName": "Киянова Г.М.",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210402')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31220401')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31220401')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31220401",
+ 		"StorageId": "0401",
+ 		"PlantId": "3122",
+ 		"Name": "Элев Чаплыжное",
+ 		"Address": ", , ,",
+ 		"RespName": "Ткаченко А.А.",
+ 		"RespPost": "Ведущий программист по внедрению ИС",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31220401')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010303')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010303')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31010303",
+ 		"StorageId": "0303",
+ 		"PlantId": "3101",
+ 		"Name": "СемТОК Аверьянов",
+ 		"Address": ", , ,",
+ 		"RespName": "Аверьянова А.А.",
+ 		"RespPost": "Агроном по семеноводству",
+ 		"HeadName": "Сливченко А.А.",
+ 		"LabName": "Киянова Г.М.",
+ 		"InstallationId": "0005",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010303')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010300')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010300')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31010300",
+ 		"StorageId": "0300",
+ 		"PlantId": "3101",
+ 		"Name": "СемТок 1 Андреев",
+ 		"Address": ", Чернянский р-н Белгородская обл., Семенной ток с. Андреевка,",
+ 		"RespName": "Романенко Влада Валериевна",
+ 		"RespPost": "",
+ 		"HeadName": "Сливченко А.А.",
+ 		"LabName": "Киянова Г.М.",
+ 		"InstallationId": "0002",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31010300')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210400')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210400')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31210400",
+ 		"StorageId": "0400",
+ 		"PlantId": "3121",
+ 		"Name": "ЗернП Шебекино",
+ 		"Address": ", , ,",
+ 		"RespName": "Томаровский Виктор Викторович",
+ 		"RespPost": "",
+ 		"HeadName": "Сливченко А.А.",
+ 		"LabName": "Киянова Г.М.",
+ 		"InstallationId": "0001",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31210400')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000401')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000401')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000401",
+ 		"StorageId": "0401",
+ 		"PlantId": "3100",
+ 		"Name": "ЗернП 2 Б Липяги",
+ 		"Address": ", , ,",
+ 		"RespName": "Пархоменко Елена Николаевна",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000401')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68220400')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68220400')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68220400",
+ 		"StorageId": "0400",
+ 		"PlantId": "6822",
+ 		"Name": "Элев Дмитриевски",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68220400')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68230400')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68230400')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68230400",
+ 		"StorageId": "0400",
+ 		"PlantId": "6823",
+ 		"Name": "Элев Борщевое",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68230400')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68210400')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68210400')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68210400",
+ 		"StorageId": "0400",
+ 		"PlantId": "6821",
+ 		"Name": "Элев Жердевский",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68210400')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68040302')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68040302')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68040302",
+ 		"StorageId": "0302",
+ 		"PlantId": "6804",
+ 		"Name": "СемТОК Кочетовка",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68040302')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68040300')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68040300')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68040300",
+ 		"StorageId": "0300",
+ 		"PlantId": "6804",
+ 		"Name": "СемТок 4 Богосло",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68040300')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68030300')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68030300')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68030300",
+ 		"StorageId": "0300",
+ 		"PlantId": "6803",
+ 		"Name": "СемТок 3 Кочетов",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68030300')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68020300')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68020300')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68020300",
+ 		"StorageId": "0300",
+ 		"PlantId": "6802",
+ 		"Name": "СемТок 2 Ивановк",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68020300')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010301')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010301')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68010301",
+ 		"StorageId": "0301",
+ 		"PlantId": "6801",
+ 		"Name": "СемТок 1 Питим",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010301')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010303')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010303')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68010303",
+ 		"StorageId": "0303",
+ 		"PlantId": "6801",
+ 		"Name": "СемТОК Питим",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010303')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010304')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010304')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68010304",
+ 		"StorageId": "0304",
+ 		"PlantId": "6801",
+ 		"Name": "СемТОК Козловка",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68010304')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000600')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000600')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68000600",
+ 		"StorageId": "0600",
+ 		"PlantId": "6800",
+ 		"Name": "ТовТок 1 Новорус",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000600')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000601')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000601')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68000601",
+ 		"StorageId": "0601",
+ 		"PlantId": "6800",
+ 		"Name": "ТовТок 2 Знаменк",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000601')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000602')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000602')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68000602",
+ 		"StorageId": "0602",
+ 		"PlantId": "6800",
+ 		"Name": "ТовТок 2 Юрловка",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000602')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000603')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000603')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68000603",
+ 		"StorageId": "0603",
+ 		"PlantId": "6800",
+ 		"Name": "ТовТок 2 Богосло",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000603')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000400')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000400')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68000400",
+ 		"StorageId": "0400",
+ 		"PlantId": "6800",
+ 		"Name": "ЗернП 1 Новоруса",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000400')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000401')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000401')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "68000401",
+ 		"StorageId": "0401",
+ 		"PlantId": "6800",
+ 		"Name": "ЗернП 2 Знаменка",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('68000401')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31220400')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31220400')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31220400",
+ 		"StorageId": "0400",
+ 		"PlantId": "3122",
+ 		"Name": "ЗернП Чаплыжное",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31220400')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31100300')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31100300')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31100300",
+ 		"StorageId": "0300",
+ 		"PlantId": "3110",
+ 		"Name": "СемТок 10 Весело",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31100300')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31070300')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31070300')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31070300",
+ 		"StorageId": "0300",
+ 		"PlantId": "3107",
+ 		"Name": "СемТок 7 Артельн",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31070300')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31080300')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31080300')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31080300",
+ 		"StorageId": "0300",
+ 		"PlantId": "3108",
+ 		"Name": "СемТок 8 Грушевк",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31080300')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040307')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040307')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31040307",
+ 		"StorageId": "0307",
+ 		"PlantId": "3104",
+ 		"Name": "СемТок 4 Кубраки",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040307')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040306')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040306')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31040306",
+ 		"StorageId": "0306",
+ 		"PlantId": "3104",
+ 		"Name": "СемТок 4 Закутск",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "0013",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31040306')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000603')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000603')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000603",
+ 		"StorageId": "0603",
+ 		"PlantId": "3100",
+ 		"Name": "ТовТок 4 В Алекс",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "0007",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000603')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000604')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000604')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000604",
+ 		"StorageId": "0604",
+ 		"PlantId": "3100",
+ 		"Name": "ТовТок 5 Покровк",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "0006",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000604')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000402')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000402')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000402",
+ 		"StorageId": "0402",
+ 		"PlantId": "3100",
+ 		"Name": "ЗернП 3 Леоновка",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000402')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000403')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000403')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000403",
+ 		"StorageId": "0403",
+ 		"PlantId": "3100",
+ 		"Name": "ЗернП 4 Покровка",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "0006",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000403')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000600')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000600')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000600",
+ 		"StorageId": "0600",
+ 		"PlantId": "3100",
+ 		"Name": "ТовТок 1 Ездочно",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000600')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000601')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000601')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000601",
+ 		"StorageId": "0601",
+ 		"PlantId": "3100",
+ 		"Name": "ТовТок 2 Б Липяг",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000601')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000602')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000602')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000602",
+ 		"StorageId": "0602",
+ 		"PlantId": "3100",
+ 		"Name": "ТовТок 3 Леоновк",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000602')/Plant"
+ 			}
+ 		}
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000400')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000400')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.Storage"
+ 		},
+ 		"Id": "31000400",
+ 		"StorageId": "0400",
+ 		"PlantId": "3100",
+ 		"Name": "ЗернП 1 Ездочное",
+ 		"Address": "",
+ 		"RespName": "",
+ 		"RespPost": "",
+ 		"HeadName": "",
+ 		"LabName": "",
+ 		"InstallationId": "",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": "",
+ 		"Plant": {
+ 			"__deferred": {
+ 				"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/StorageSet('31000400')/Plant"
+ 			}
+ 		}
+ 	}
+ ]

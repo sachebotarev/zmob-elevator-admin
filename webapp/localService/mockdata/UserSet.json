@@ -1,0 +1,140 @@
+[
+		{
+		  "__metadata" : {
+			"id" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('AKULANDIN')",
+			"uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('AKULANDIN')",
+			"type" : "ZMOB002_ELEVATOR_WEIGHT_SRV.User"
+		  },
+		  "Id" : "AKULANDIN",
+		  "Firstname" : "Александр Владимирович",
+		  "Surname" : "Куландин",
+		  "Name" : "Александр Владимирович Куландин",
+		  "AllowManual" : false,
+		  "DefaultInstallationId" : "0001",
+		  "CreateAt" : null,
+		  "CreateBy" : "",
+		  "ChangeBy" : "",
+		  "ChangeAt" : null,
+		  "Etag" : "",
+		  "DefaultInstallation" : {
+			"__deferred" : {
+			  "uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('AKULANDIN')/DefaultInstallation"
+			}
+		  }
+		},
+		{
+		  "__metadata" : {
+			"id" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('APASHIGOREV')",
+			"uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('APASHIGOREV')",
+			"type" : "ZMOB002_ELEVATOR_WEIGHT_SRV.User"
+		  },
+		  "Id" : "APASHIGOREV",
+		  "Firstname" : "Александр Юрьевич",
+		  "Surname" : "Пашигорев",
+		  "Name" : "Александр Юрьевич Пашигорев",
+		  "AllowManual" : false,
+		  "DefaultInstallationId" : "0001",
+		  "CreateAt" : null,
+		  "CreateBy" : "",
+		  "ChangeBy" : "",
+		  "ChangeAt" : null,
+		  "Etag" : "",
+		  "DefaultInstallation" : {
+			"__deferred" : {
+			  "uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('APASHIGOREV')/DefaultInstallation"
+			}
+		  }
+		},
+		{
+		  "__metadata" : {
+			"id" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('MLITVINOVA')",
+			"uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('MLITVINOVA')",
+			"type" : "ZMOB002_ELEVATOR_WEIGHT_SRV.User"
+		  },
+		  "Id" : "MLITVINOVA",
+		  "Firstname" : "Марина Леонидовна",
+		  "Surname" : "Литвинова",
+		  "Name" : "Марина Леонидовна Литвинова",
+		  "AllowManual" : false,
+		  "DefaultInstallationId" : "0001",
+		  "CreateAt" : null,
+		  "CreateBy" : "",
+		  "ChangeBy" : "",
+		  "ChangeAt" : null,
+		  "Etag" : "",
+		  "DefaultInstallation" : {
+			"__deferred" : {
+			  "uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('MLITVINOVA')/DefaultInstallation"
+			}
+		  }
+		},
+		{
+		  "__metadata" : {
+			"id" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('OCIPCHENKO')",
+			"uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('OCIPCHENKO')",
+			"type" : "ZMOB002_ELEVATOR_WEIGHT_SRV.User"
+		  },
+		  "Id" : "OCIPCHENKO",
+		  "Firstname" : "Ольга Анатольевна",
+		  "Surname" : "Цыпченко",
+		  "Name" : "Ольга Анатольевна Цыпченко",
+		  "AllowManual" : false,
+		  "DefaultInstallationId" : "0001",
+		  "CreateAt" : null,
+		  "CreateBy" : "",
+		  "ChangeBy" : "",
+		  "ChangeAt" : null,
+		  "Etag" : "",
+		  "DefaultInstallation" : {
+			"__deferred" : {
+			  "uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('OCIPCHENKO')/DefaultInstallation"
+			}
+		  }
+		},
+		{
+		  "__metadata" : {
+			"id" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('SCHEBOTAREV')",
+			"uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('SCHEBOTAREV')",
+			"type" : "ZMOB002_ELEVATOR_WEIGHT_SRV.User"
+		  },
+		  "Id" : "SCHEBOTAREV",
+		  "Firstname" : "Сергей Александрович",
+		  "Surname" : "Чеботарев",
+		  "Name" : "Сергей Александрович Чеботарев",
+		  "AllowManual" : false,
+		  "DefaultInstallationId" : "0001",
+		  "CreateAt" : null,
+		  "CreateBy" : "",
+		  "ChangeBy" : "",
+		  "ChangeAt" : null,
+		  "Etag" : "",
+		  "DefaultInstallation" : {
+			"__deferred" : {
+			  "uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('SCHEBOTAREV')/DefaultInstallation"
+			}
+		  }
+		},
+		{
+			"__metadata" : {
+			  "id" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('SCHEBOTAREV')",
+			  "uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('SCHEBOTAREV')",
+			  "type" : "ZMOB002_ELEVATOR_WEIGHT_SRV.User"
+			},
+			"Id" : "DEFAULT_USER",
+			"Firstname" : "Сергей Александрович",
+			"Surname" : "Чеботарев",
+			"Name" : "Сергей Александрович Чеботарев",
+			"AllowManual" : false,
+			"DefaultInstallationId" : "0001",
+			"CreateAt" : null,
+			"CreateBy" : "",
+			"ChangeBy" : "",
+			"ChangeAt" : null,
+			"Etag" : "",
+			"DefaultInstallation" : {
+			  "__deferred" : {
+				"uri" : "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/UserSet('DEFAULT_USER')/DefaultInstallation"
+			  }
+			}
+		  }
+	  ]

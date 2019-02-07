@@ -1,0 +1,127 @@
+ [{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('I01')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('I01')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "I01",
+ 		"Name": "Реализация клиенту",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('I02')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('I02')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "I02",
+ 		"Name": "Отпуск на др.ПО (ток, элеватор)",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('I03')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('I03')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "I03",
+ 		"Name": "Выдача с хранения владельцу",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('I04')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('I04')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "I04",
+ 		"Name": "Вывоз отходов",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('R01')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('R01')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "R01",
+ 		"Name": "Поступление с полей",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('R02')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('R02')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "R02",
+ 		"Name": "Поступление с др.ПО(тока, элеватора)",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('R03')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('R03')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "R03",
+ 		"Name": "Поступление на ответ.хранение",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('R04')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('R04')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "R04",
+ 		"Name": "Поступление при закупке",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	},
+ 	{
+ 		"__metadata": {
+ 			"id": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('T01')",
+ 			"uri": "http://srvsap83.rainvest.local:8000/sap/opu/odata/sap/ZMOB002_ELEVATOR_WEIGHT_SRV/OperationTypeSet('T01')",
+ 			"type": "ZMOB002_ELEVATOR_WEIGHT_SRV.OperationType"
+ 		},
+ 		"Id": "T01",
+ 		"Name": "Внутреннее перемещение между складами",
+ 		"CreateAt": null,
+ 		"CreateBy": "",
+ 		"ChangeBy": "",
+ 		"ChangeAt": null,
+ 		"Etag": ""
+ 	}
+ ]
