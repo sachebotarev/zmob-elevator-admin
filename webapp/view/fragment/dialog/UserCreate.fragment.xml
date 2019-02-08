@@ -1,0 +1,58 @@
+<core:FragmentDefinition
+   xmlns="sap.m"
+   xmlns:l="sap.ui.layout"
+   xmlns:f="sap.ui.layout.form"
+   xmlns:core="sap.ui.core" >
+   <Dialog
+      title="Создание пользователя">
+
+	<VBox class="sapUiSmallMargin">
+		<f:SimpleForm
+			editable="true"
+			layout="ResponsiveGridLayout"
+			title="Данные пользователя"
+			labelSpanXL="3"
+			labelSpanL="3"
+			labelSpanM="3"
+			labelSpanS="12"
+			adjustLabelSpan="false"
+			emptySpanXL="4"
+			emptySpanL="4"
+			emptySpanM="4"
+			emptySpanS="0"
+			columnsXL="1"
+			columnsL="1"
+			columnsM="1"
+			singleContainerFullSize="false" >
+			<f:content>
+				<Label text="Name"  />
+				<Input value="{user>/Name}" placeholder="Enter user name (login) ..."/>
+				<Label text="Full Name" />
+				<Input value="{user>/FullName}" />
+				<Label text="Password" />
+				<Input value="{user>/Password}"
+					type="Password"
+					placeholder="Enter password ..." />
+				<Label text="SAP User" />
+				<ComboBox selectedKey="{user>/SapUserId}"
+						showSecondaryValues= "true"
+						items="{
+							path : '/UserSet'
+						}">
+						<core:ListItem key="{Id}" text="{Name}" additionalText="{Id}"/>
+				</ComboBox>
+			</f:content>
+		</f:SimpleForm>
+	</VBox>
+	<beginButton>
+		<Button
+			text="Сохранить"
+			press="handleUserDialogConfirm" />
+	</beginButton>
+	<endButton>
+		<Button
+			text="Отменить"
+			press="handleUserDialogCancel" />
+	</endButton>
+   </Dialog>
+</core:FragmentDefinition>
