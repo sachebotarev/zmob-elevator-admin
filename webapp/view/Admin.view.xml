@@ -4,7 +4,6 @@
         xmlns="sap.m">
     <Page
             title="Администрирование">
-
     </Page>
 
 </mvc:View>

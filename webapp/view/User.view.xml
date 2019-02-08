@@ -6,7 +6,7 @@
             title="{i18n>user.page.title}">
         <Table id="UserList"
                inset="false"
-               mode="SingleSelect"
+               mode="None"
                items="{
 			       path: '/AuthUserSet'
 		       }" >
@@ -15,38 +15,33 @@
                     <Title text="{i18n>user.title}" level="H2" />
                     <ToolbarSpacer />
                     <Button
-                            icon="sap-icon://request"
-                            press="handleNewPress" />
-                    <Button
-                            icon="sap-icon://add-document"
-                            press="handleSyncSelected" />
-                    <Button
-                            icon="sap-icon://delete"
-                            press="handleClearSelected" />
+                            icon="sap-icon://add"
+                            press=".handleCreateUserPress" />
                 </Toolbar>
             </headerToolbar>
             <columns>
                 <Column width="12em">
                     <Text text="{i18n>user.name}" />
                 </Column>
-                <Column width="12em">
+                <Column>
                     <Text text="{i18n>user.fullname}" />
                 </Column>
-                <Column width="12em">
+                <Column >
                     <Text text="{i18n>user.sapuser}" />
                 </Column>
-                <Column width="12em">
+                <Column >
                     <Text text="{i18n>user.password}" />
                 </Column>
-                <Column width="12em">
+                <Column >
                     <Text text="{i18n>user.updateby}" />
                 </Column>
-                <Column width="12em">
+                <Column>
                     <Text text="{i18n>user.updateat}" />
                 </Column>
-                <Column width="6em">
-                    <Text text="{i18n>user.edit}" />
+                <Column >
                 </Column>
+				 <Column>
+				</Column>
             </columns>
             <items>
                 <ColumnListItem>
@@ -56,20 +51,23 @@
                         <Text
                             text="{FullName}"/>
                         <Text
-                                text="{SapUser}"/>
+                                text="{SapUserId}"/>
                         <Text
                                 text="{Password}"/>
                         <Text text="{
-                                path: 'UpdateAt',
+                                path: 'ChangeAt',
                                 type: 'sap.ui.model.type.DateTime',
                                 formatOptions: {
                                 style: 'medium'
                                 }
                             }" />
-                        <Text text="{UpdateBy}" />
+                        <Text text="{ChangeBy}" />
                         <Button
-                                icon="sap-icon://notes"
-                                press="handleInfoOperation"/>
+                                icon="sap-icon://edit"
+                                press=".handleUpdateUserPress"/>
+						 <Button
+                                icon="sap-icon://delete"
+                                press=".handleDeleteUserPress"/>
                     </cells>
                 </ColumnListItem>
             </items>

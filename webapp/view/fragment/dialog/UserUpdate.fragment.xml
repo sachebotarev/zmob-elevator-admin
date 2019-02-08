@@ -4,9 +4,9 @@
    xmlns:f="sap.ui.layout.form"
    xmlns:core="sap.ui.core" >
    <Dialog
-      title="{i18n>title.user.create}">
+      title="{i18n>title.user.update}">
 
-	<VBox >
+	<VBox>
 		<f:SimpleForm
 			editable="true"
 			layout="ResponsiveGridLayout"
@@ -22,24 +22,15 @@
 			columnsXL="1"
 			columnsL="1"
 			columnsM="1"
-			singleContainerFullSize="false" >
+			singleContainerFullSize="false">
 			<f:content>
 				<Label text="{i18n>label.user.sapuser}" />
-				<ComboBox selectedKey="{user>/SapUserId}"
-						placeholder="{i18n>placeholder.user.sapuser}"
-						required = "true"
-						change = ".handleSapUserChange"
-						showSecondaryValues= "true"
-						items="{
-							path : '/UserSet'
-						}">
-						<core:ListItem key="{Id}" text="{Name}" additionalText="{Id}" />
-				</ComboBox>
-				<Label text="{i18n>label.user.name}" />
-				<Input id="user_name" required = "true" value="{user>/Name}" placeholder="{i18n>placeholder.user.name}" />
+				<Input value="{user>/SapUserId}" editable = "false" placeholder="{i18n>placeholder.user.sapuser}" />
+				<Label text="{i18n>label.user.name}" placeholder="{i18n>placeholder.user.name}" />
+				<Input id="user_name" value="{user>/Name}" editable = "false" />
 				<Label text="{i18n>label.user.fullname}" />
 				<Input id="user_full_name" value="{user>/FullName}" placeholder="{i18n>placeholder.user.fullname}" />
-				<Label text="{i18n>label.user.password}" required = "true" />
+				<Label text="{i18n>label.user.password}" />
 				<Input value="{user>/Password}"
 					type="Password"
 					placeholder="{i18n>placeholder.user.password}" />
@@ -51,12 +42,12 @@
 	<beginButton>
 		<Button
 			text="{i18n>dialog.ok}"
-			press=".handleUserCreateDialogConfirm" />
+			press=".handleUserUpdateDialogConfirm" />
 	</beginButton>
 	<endButton>
 		<Button
 			text="{i18n>dialog.cancel}"
-			press=".handleUserCreateDialogCancel" />
+			press=".handleUserUpdateDialogCancel" />
 	</endButton>
    </Dialog>
 </core:FragmentDefinition>

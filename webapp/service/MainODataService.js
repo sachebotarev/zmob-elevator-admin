@@ -40,8 +40,33 @@ sap.ui.define([
 						}
 					});
                 });
-			}
+			},
 
+			updateAuthUser: function(oData) {
+				return new Promise((resolve, reject) => {
+					this.__oModel.update("/AuthUserSet('" + encodeURIComponent(oData.Id) + "')", oData, {
+						success: function (oData, responce) {
+							resolve(oData);
+						},
+						error: function (oError) {
+							reject(oError);
+						}
+					});
+                });
+			},
+
+			deleteAuthUser: function(sId) {
+				return new Promise((resolve, reject) => {
+					this.__oModel.remove("/AuthUserSet('" + encodeURIComponent(sId) + "')", {
+						success: function (oData, responce) {
+							resolve(oData);
+						},
+						error: function (oError) {
+							reject(oError);
+						}
+					});
+                });
+			}
         });
     }
 );
