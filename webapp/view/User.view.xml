@@ -14,8 +14,13 @@
                 <Toolbar>
                     <Title text="{i18n>user.title}" level="H2" />
                     <ToolbarSpacer />
+					<Button
+                            icon="sap-icon://activate"
+							tooltip="{i18n>user.action.autocreate}"
+                            press=".handleAutoCreateUserPress" />
                     <Button
                             icon="sap-icon://add"
+							tooltip="{i18n>user.action.create}"
                             press=".handleCreateUserPress" />
                 </Toolbar>
             </headerToolbar>
@@ -38,9 +43,9 @@
                 <Column>
                     <Text text="{i18n>user.updateat}" />
                 </Column>
-                <Column >
+                <Column width="3rem">
                 </Column>
-				 <Column>
+				 <Column width="3rem">
 				</Column>
             </columns>
             <items>
@@ -54,6 +59,7 @@
                                 text="{SapUserId}"/>
                         <Text
                                 text="{Password}"/>
+						<Text text="{ChangeBy}" />
                         <Text text="{
                                 path: 'ChangeAt',
                                 type: 'sap.ui.model.type.DateTime',
@@ -61,7 +67,6 @@
                                 style: 'medium'
                                 }
                             }" />
-                        <Text text="{ChangeBy}" />
                         <Button
                                 icon="sap-icon://edit"
                                 press=".handleUpdateUserPress"/>

@@ -19,6 +19,10 @@
                         type="Active"
                         press="handleNavToEntity"
                         title="{i18n>menu.item.entities}" />
+				<StandardListItem
+                        type="Active"
+                        press="handleNavToRequest"
+                        title="{i18n>menu.item.request}" />
             </items>
         </List>
     </Page>

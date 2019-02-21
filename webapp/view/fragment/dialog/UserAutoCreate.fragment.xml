@@ -1,0 +1,45 @@
+<core:FragmentDefinition
+   xmlns="sap.m"
+   xmlns:l="sap.ui.layout"
+   xmlns:f="sap.ui.layout.form"
+   xmlns:core="sap.ui.core" >
+   <Dialog
+      title="{i18n>title.user.auto.create}">
+
+	<VBox >
+		<f:SimpleForm
+			editable="true"
+			layout="ResponsiveGridLayout"
+			labelSpanXL="3"
+			labelSpanL="3"
+			labelSpanM="3"
+			labelSpanS="12"
+			adjustLabelSpan="false"
+			emptySpanXL="4"
+			emptySpanL="4"
+			emptySpanM="4"
+			emptySpanS="0"
+			columnsXL="1"
+			columnsL="1"
+			columnsM="1"
+			singleContainerFullSize="false" >
+			<f:content>
+				<Label text="{i18n>label.user.password}" required = "true" />
+				<Input value="{user>/Password}"
+					type="Password"
+					placeholder="{i18n>placeholder.user.password}" />
+			</f:content>
+		</f:SimpleForm>
+	</VBox>
+	<beginButton>
+		<Button
+			text="{i18n>dialog.ok}"
+			press=".handleUserAutoCreateDialogConfirm" />
+	</beginButton>
+	<endButton>
+		<Button
+			text="{i18n>dialog.cancel}"
+			press=".handleUserAutoCreateDialogCancel" />
+	</endButton>
+   </Dialog>
+</core:FragmentDefinition>

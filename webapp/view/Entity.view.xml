@@ -3,7 +3,7 @@
         xmlns:mvc="sap.ui.core.mvc"
         xmlns="sap.m">
     <Page
-            title="Entity Manger">
+            title="{i18n>entity.page.title}">
         <Table id="EntiyList"
                inset="false"
                mode="MultiSelect"
@@ -12,10 +12,13 @@
 		       }" >
             <headerToolbar>
             <Toolbar>
-                <Title text="Entity" level="H2" />
+                <Title text="{i18n>entity.title}" level="H2" />
                 <ToolbarSpacer />
                 <Button
                         icon="sap-icon://activate"
+                        press="handleActivatePress" />
+				 <Button
+                        icon="sap-icon://feed"
                         press="handleInitPress" />
                 <Button
                         icon="sap-icon://synchronize"
@@ -27,25 +30,25 @@
             </headerToolbar>
             <columns>
                 <Column width="12em">
-                    <Text text="Name" />
+                    <Text text="{i18n>entity.name}" />
+                </Column>
+                <Column width="5em">
+                    <Text text="{i18n>entity.count}" />
+                </Column>
+                <Column width="8em">
+                    <Text text="{i18n>entity.updateat}" />
                 </Column>
                 <Column width="12em">
-                    <Text text="Count" />
+                    <Text text="{i18n>entity.updateby}" />
                 </Column>
                 <Column width="12em">
-                    <Text text="Last Update" />
+                    <Text text="{i18n>entity.deltalink}" />
                 </Column>
-                <Column width="12em">
-                    <Text text="User" />
+                <Column width="5em">
+                    <Text text="{i18n>entity.sync}" />
                 </Column>
-                <Column width="12em">
-                    <Text text="Deltalink" />
-                </Column>
-                <Column width="6em">
-                    <Text text="Sync" />
-                </Column>
-                <Column width="6em">
-                    <Text text="Clear" />
+                <Column width="5em">
+                    <Text text="{i18n>entity.clear}" />
                 </Column>
             </columns>
             <items>

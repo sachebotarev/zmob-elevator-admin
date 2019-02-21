@@ -18,7 +18,11 @@ sap.ui.define([
 
         handleNavToProperty: function (oEvent) {
             this.getRouter().navTo("property", {}, true /*no history*/);
-        }
+		},
+
+		handleNavToRequest: function(oEvent){
+			this.getRouter().navTo("request", {}, true /*no history*/);
+		}
 
     });
 });

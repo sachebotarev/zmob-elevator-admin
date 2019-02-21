@@ -31,6 +31,20 @@ sap.ui.define([
                         }
                     });
                 });
+			},
+
+			clearAll: function(){
+                return new Promise(function (resolve, reject) {
+                    jQuery.ajax({
+                        dataType: "json",
+                        type: "GET",
+                        url: "/api/admin/entity?operation=clear",
+                        success: function(data) { resolve(data);},
+                        error: function (error) {
+                            reject(error);
+                        }
+                    });
+                });
             },
 
             clearOperation: function (entitySetName) {

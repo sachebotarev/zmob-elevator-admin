@@ -8,7 +8,7 @@ sap.ui.define([
             BaseController.prototype.onInit.apply(this, arguments);
         },
         handlePressHome: function (oEvent) {
-            window.location.replace("/launchpad/index.html");
+            this.getRouter().navTo("admin");
         },
         handleLogoffPress: function (oEvent) {
             window.location.replace("/logout");

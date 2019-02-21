@@ -29,6 +29,19 @@ sap.ui.define([
                 });
 			},
 
+			createAutoAuthUser: function(sPassword){
+                return new Promise((resolve, reject) => {
+                    this.__oModel.callFunction("/CreateAutoAuthUser",{
+						method: "GET",
+						urlParameters: {
+							Password: sPassword
+						},
+                        success: (data)=>{resolve(data);},
+                        error:  (error)=>{reject(error);}
+                    });
+                });
+			},
+
 			createAuthUser: function(oData) {
 				return new Promise((resolve, reject) => {
 					this.__oModel.create("/AuthUserSet", oData, {

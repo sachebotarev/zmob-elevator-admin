@@ -12,73 +12,111 @@ sap.ui.define([
 
         handleSyncAll: function(oEvent){
             var oView = this.getView();
-            var that =  this;
-            MessageToast.show("Sync started");
+            MessageToast.show(this.getResourceBundle().getText("message.entity.start.sync"));
             oView.setBusy(true);
             this.getEntityService().syncAll()
-                .then(function (data) {
-                    oView.setBusy(false);
-                    MessageToast.show("Sync success");
-                    that.getModel().refresh();
-                    jQuery.sap.log.info("Success");
+                .then((data) => {
+					MessageToast.show(this.getResourceBundle().getText("message.entity.success.sync"));
+                    this.getModel().refresh();
                 })
-                .catch(function (reason) {
-                    oView.setBusy(false);
-                    MessageToast.show("Sync error");
-                    jQuery.sap.log.error(reason);
-                });
+                .catch((reason) => {
+                    MessageToast.show(this.getResourceBundle().getText("message.entity.filed.sync", reason.responseText));
+				})
+				.finally(() => {
+					oView.setBusy(false);
+				});
         },
 
         handleSyncOperation: function (oEvent) {
-            var that =  this;
-            var oSource =  oEvent.getSource();
+			var oSource =  oEvent.getSource();
+			oSource.setBusy(true);
+			MessageToast.show(this.getResourceBundle().getText("message.entity.start.sync"));
             var oData = oSource.getBindingContext().getObject();
             this.getEntityService().syncOperation(oData.Name)
-                .then(function (data) {
-                    MessageToast.show("Sync success");
-                    that.getModel().refresh();
-                    //console.log(data);
+                .then((data) => {
+                    MessageToast.show(this.getResourceBundle().getText("message.entity.success.sync", oData.Name));
+                    this.getModel().refresh();
                 })
-                .catch(function (reason) {
-                    MessageToast.show("Sync error");
-                   // console.error(reason);
-                });
+                .catch((reason) => {
+					MessageToast.show(this.getResourceBundle().getText("message.entity.filed.sync", reason.responseText));
+				})
+				.finally(() => {
+					oSource.setBusy(false);
+				});
         },
 
         handleClearOperation: function (oEvent) {
-            var that =  this;
-            var oSource =  oEvent.getSource();
+			var oSource =  oEvent.getSource();
+			oSource.setBusy(true);
+			MessageToast.show(this.getResourceBundle().getText("message.entity.start.clear"));
             var oData = oSource.getBindingContext().getObject();
             this.getEntityService().clearOperation(oData.Name)
-                .then(function (data) {
-                    MessageToast.show("Clear success");
-                    that.getModel().refresh();
-                   // console.log(data);
+                .then((data) => {
+					MessageToast.show(this.getResourceBundle().getText("message.entity.success.clear", oData.Name));
+                    this.getModel().refresh();
                 })
-                .catch(function (reason) {
-                    MessageToast.show("Clear error");
-                   // console.error(reason);
-                });
+                .catch((reason) =>{
+                    MessageToast.show(this.getResourceBundle().getText("message.entity.filed.clear", reason.responseText));
+				})
+				.finally(() => {
+					oSource.setBusy(false);
+				});
         },
 
         handleInitPress: function (oEvent) {
             var oView = this.getView();
-            var that = this;
             oView.setBusy(true);
             this.getEntityService().init()
-                .then(function (data) {
-                    MessageToast.show("Init success");
-                    that.getModel().refresh();
-                    oView.setBusy(false);
-                   // console.log(data);
+                .then((data) => {
+					MessageToast.show(this.getResourceBundle().getText("message.entity.success.init"));
+                    this.getModel().refresh();
                 })
-                .catch(function (reason) {
-                    MessageToast.show("Init error");
-                    oView.setBusy(false);
-                   // console.error(reason);
-                });
-        }
+                .catch((reason) => {
+                    MessageToast.show(this.getResourceBundle().getText("message.entity.filed.init", reason.responseText));
+				})
+				.finally(() => {
+					oView.setBusy(false);
+				});
+		},
 
+		handleClearAll: function(oEvent){
+            var oView = this.getView();
+            MessageToast.show(this.getResourceBundle().getText("message.entity.start.clear"));
+            oView.setBusy(true);
+            this.getEntityService().syncAll()
+                .then( (data) => {
+                    MessageToast.show(this.getResourceBundle().getText("message.entity.success.clear"));
+                    this.getModel().refresh();
+                })
+                .catch((reason) => {
+                    MessageToast.show(this.getResourceBundle().getText("message.entity.filed.clear",reason.responseText));
+				})
+				.finally(() => {
+					oView.setBusy(false);
+				});
+		},
 
+		handleActivatePress: function(oEvent){
+			var oView = this.getView();
+			MessageToast.show(this.getResourceBundle().getText("message.entity.start.activation"));
+			oView.setBusy(true);
+			this.getEntityService().clearAll()
+			.then( (data) => {
+				return this.getEntityService().init();
+			})
+			.then( (data) => {
+				return this.getEntityService().syncAll();
+			})
+			.then(() => {
+				this.getModel().refresh();
+				MessageToast.show(this.getResourceBundle().getText("message.entity.success.activation"));
+			})
+			.catch((reason) => {
+				MessageToast.show(this.getResourceBundle().getText("message.entity.filed.activation", reason.responseText));
+			})
+			.finally(() => {
+				oView.setBusy(false);
+			});
+		}
     });
 });

@@ -1,6 +1,6 @@
 {
     "sap.app": {
-    "title": "{{weight.document.application.title}}",
+    "title": "{{app.title}}",
         "applicationVersion": {
         "version": "0.0.1"
     },
@@ -97,12 +97,18 @@
                 "pattern": "property",
                 "name": "property",
                 "target": ["menu", "property"]
+			},
+			{
+                "pattern": "request",
+                "name": "request",
+                "target": ["menu","request"]
             },
             {
                 "pattern": "notFound",
                 "name": "notFound",
                 "target": ["menu","notFound"]
-            }
+			}
+
         ],
         "targets":{
             "notFound": {
@@ -127,6 +133,11 @@
             },
             "entity": {
                 "viewName": "Entity",
+                "viewLevel": 1,
+                "controlAggregation": "detailPages"
+			},
+			"request": {
+                "viewName": "Request",
                 "viewLevel": 1,
                 "controlAggregation": "detailPages"
             },

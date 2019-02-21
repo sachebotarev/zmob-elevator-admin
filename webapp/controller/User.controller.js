@@ -145,6 +145,46 @@ sap.ui.define([
 			if (!sap.ui.core.Fragment.byId("create","user_full_name").getValue()){
 				sap.ui.core.Fragment.byId("create","user_full_name").setValue(sText);
 			}
+		},
+
+		handleAutoCreateUserPress: function(oEvent){
+			var newUserModel = new JSONModel({
+				Password: ""
+			});
+			if (!this._oUserAutoCreateDialog) {
+				this._oUserAutoCreateDialog = sap.ui.xmlfragment("create",
+					"rusagro.elevator.admin.view.fragment.dialog.UserAutoCreate",
+					this
+				);
+				this.getView().addDependent(this._oUserAutoCreateDialog);
+			}
+			this._oUserAutoCreateDialog.setModel(newUserModel, "user");
+			this._oUserAutoCreateDialog.setModel(this.getView().getModel());
+			this._oUserAutoCreateDialog.open();
+		},
+
+		handleUserAutoCreateDialogCancel: function(oEvent){
+			if (this._oUserAutoCreateDialog){
+				this._oUserAutoCreateDialog.close();
+			}
+		},
+
+		handleUserAutoCreateDialogConfirm: function(oEvent){
+			if (this._oUserAutoCreateDialog){
+				var oData = this._oUserAutoCreateDialog.getModel("user").getData();
+				if (!oData.Password) {
+					MessageBox.error(this.getResourceBundle().getText("message.user.required"));
+					return;
+				}
+				this.getMainODataService().createAutoAuthUser(oData.Password)
+					.then((oData) => {
+						 MessageToast.show(this.getResourceBundle().getText("message.user.success.auto.created"));
+					 })
+					.catch((oError) => {
+						MessageBox.error(this.getResourceBundle().getText("message.user.failed.auto.created"));
+					});
+				this._oUserAutoCreateDialog.close();
+			}
 		}
 
     });
