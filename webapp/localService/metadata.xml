@@ -6,112 +6,113 @@
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Enabled" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="FullName" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="255"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="Password" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="SapUserId" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Enabled" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="FullName" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="255"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="Password" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="SapUserId" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
 				<NavigationProperty Name="SapUser" Relationship="Weight.AuthUser_User_Many_ZeroToOne0" FromRole="AuthUser" ToRole="User"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="Camera">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="CameraId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="30"></Property>
-				<Property Name="InstallationId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="60"></Property>
-				<Property Name="Type" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Url" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="WeightTerminalId" Type="Edm.String" Nullabel="true" MaxLength="20"></Property>
+				<Property Name="CameraId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="30"></Property>
+				<Property Name="InstallationId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="60"></Property>
+				<Property Name="Type" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Url" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="WeightTerminalId" Type="Edm.String" Nullable="true" MaxLength="20"></Property>
+				<NavigationProperty Name="WeightTerminal" Relationship="Weight.Camera_WeightTerminal_Many_ZeroToOne0" FromRole="Camera" ToRole="WeightTerminal"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="Combine">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CompanyCodeId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="18"></Property>
-				<Property Name="Kind" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="LicenseNum" Type="Edm.String" Nullabel="true" MaxLength="15"></Property>
-				<Property Name="MaxWeight" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Type" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Unit" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CompanyCodeId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="18"></Property>
+				<Property Name="Kind" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="LicenseNum" Type="Edm.String" Nullable="true" MaxLength="15"></Property>
+				<Property Name="MaxWeight" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Type" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Unit" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
 			</EntityType>
 			<EntityType Name="Combiner">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Firstname" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="8"></Property>
-				<Property Name="Middlename" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="120"></Property>
-				<Property Name="Surname" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Firstname" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="8"></Property>
+				<Property Name="Middlename" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="120"></Property>
+				<Property Name="Surname" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
 			</EntityType>
 			<EntityType Name="Driver">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Firstname" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="8"></Property>
-				<Property Name="Middlename" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="120"></Property>
-				<Property Name="Surname" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Firstname" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="8"></Property>
+				<Property Name="Middlename" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="120"></Property>
+				<Property Name="Surname" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
 			</EntityType>
 			<EntityType Name="EntityInfo">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="Count" Type="Edm.Int64" Nullabel="true"></Property>
-				<Property Name="Deltalink" Type="Edm.String" Nullabel="true" MaxLength="1000"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="255"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="UpdateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="UpdateBy" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
+				<Property Name="Count" Type="Edm.Int64" Nullable="true"></Property>
+				<Property Name="Deltalink" Type="Edm.String" Nullable="true" MaxLength="1000"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="255"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="UpdateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="UpdateBy" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
 			</EntityType>
 			<EntityType Name="Field">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CompanyCode" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="DocDataFinishAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="DocDataStartAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="30"></Property>
-				<Property Name="MaterialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CompanyCode" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="DocDateFinishAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="DocDateStartAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="30"></Property>
+				<Property Name="MaterialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
 				<NavigationProperty Name="Material" Relationship="Weight.Field_Material_Many_ZeroToOne0" FromRole="Field" ToRole="Material"></NavigationProperty>
 				<NavigationProperty Name="Plant" Relationship="Weight.Field_Plant_Many_ZeroToOne0" FromRole="Field" ToRole="Plant"></NavigationProperty>
 			</EntityType>
@@ -119,453 +120,465 @@
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="1"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="60"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="1"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="60"></Property>
 			</EntityType>
 			<EntityType Name="Installation">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="4"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<NavigationProperty Name="StorageDetails" Relationship="Weight.Installation_Storage_One_Many0" FromRole="Installation" ToRole="Storage"></NavigationProperty>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="4"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<NavigationProperty Name="StorageSet" Relationship="Weight.Installation_Storage_One_Many0" FromRole="Installation" ToRole="Storage"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="LabAttrValue">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="38"></Property>
-				<Property Name="LabAttrId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="ValueLabAttrId" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="38"></Property>
+				<Property Name="LabAttrId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
+				<Property Name="ValueLabAttrId" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
 			</EntityType>
 			<EntityType Name="LabRelation">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="AttrType" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="DefBoolVal" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="DefNumVal" Type="Edm.Double" Nullabel="true"></Property>
-				<Property Name="DefTextVal" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="DocDataFinishAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="DocDataStartAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="120"></Property>
-				<Property Name="LabAttrId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="MaterialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="MaxNumVal" Type="Edm.Double" Nullabel="true"></Property>
-				<Property Name="MinNumVal" Type="Edm.Double" Nullabel="true"></Property>
-				<Property Name="Scale" Type="Edm.Int32" Nullabel="true"></Property>
-				<Property Name="TypeOperationId" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
+				<Property Name="AttrType" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="DefBoolVal" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="DefNumVal" Type="Edm.Double" Nullable="true"></Property>
+				<Property Name="DefTextVal" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
+				<Property Name="DocDateFinishAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="DocDateStartAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="120"></Property>
+				<Property Name="LabAttrId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="MaterialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="MaxNumVal" Type="Edm.Double" Nullable="true"></Property>
+				<Property Name="MinNumVal" Type="Edm.Double" Nullable="true"></Property>
+				<Property Name="Scale" Type="Edm.Int32" Nullable="true"></Property>
+				<Property Name="TypeOperationId" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
 			</EntityType>
 			<EntityType Name="Material">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="18"></Property>
-				<Property Name="Kind" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="Unit" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
-				<Property Name="Year" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="18"></Property>
+				<Property Name="Kind" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="Unit" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
+				<Property Name="Year" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
 			</EntityType>
 			<EntityType Name="OperationType">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="3"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="3"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
 			</EntityType>
 			<EntityType Name="Owner">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="Address" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="FundId" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="10"></Property>
-				<Property Name="MaterialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="35"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="SpecialStockId" Type="Edm.String" Nullabel="true" MaxLength="24"></Property>
-				<Property Name="StorageId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
+				<Property Name="Address" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="FundId" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="10"></Property>
+				<Property Name="MaterialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="35"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="SpecialStockId" Type="Edm.String" Nullable="true" MaxLength="24"></Property>
+				<Property Name="StorageId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
 			</EntityType>
 			<EntityType Name="PlaceUnload">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="10"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="60"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="14"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="60"></Property>
+				<Property Name="PlaceUnloadId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
 			</EntityType>
 			<EntityType Name="Plant">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="Address" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CompanyCodeId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="CompanyCodeName" Type="Edm.String" Nullabel="true" MaxLength="25"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="4"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="Okpo" Type="Edm.String" Nullabel="true" MaxLength="48"></Property>
-				<NavigationProperty Name="StorageDetails" Relationship="Weight.Plant_Storage_One_Many0" FromRole="Plant" ToRole="Storage"></NavigationProperty>
+				<Property Name="Address" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CompanyCodeId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="CompanyCodeName" Type="Edm.String" Nullable="true" MaxLength="25"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="4"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
+				<Property Name="Okpo" Type="Edm.String" Nullable="true" MaxLength="48"></Property>
+				<NavigationProperty Name="StorageSet" Relationship="Weight.Plant_Storage_One_Many0" FromRole="Plant" ToRole="Storage"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="PlantInstallation">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="8"></Property>
-				<Property Name="InstallationId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<NavigationProperty Name="InstallationDetails" Relationship="Weight.PlantInstallation_Installation_Many_ZeroToOne0" FromRole="PlantInstallation" ToRole="Installation"></NavigationProperty>
-				<NavigationProperty Name="PlantDetails" Relationship="Weight.PlantInstallation_Plant_Many_ZeroToOne0" FromRole="PlantInstallation" ToRole="Plant"></NavigationProperty>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="8"></Property>
+				<Property Name="InstallationId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<NavigationProperty Name="Installation" Relationship="Weight.PlantInstallation_Installation_Many_ZeroToOne0" FromRole="PlantInstallation" ToRole="Installation"></NavigationProperty>
+				<NavigationProperty Name="Plant" Relationship="Weight.PlantInstallation_Plant_Many_ZeroToOne0" FromRole="PlantInstallation" ToRole="Plant"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="PurchaseOrder">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreditorId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="DocDataFinishAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="DocDataStartAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="16"></Property>
-				<Property Name="MaterialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="OpenQuantity" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="OwnerId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="SpecialStockId" Type="Edm.String" Nullabel="true" MaxLength="24"></Property>
-				<Property Name="StorageId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="Unit" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreditorId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="DocDateFinishAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="DocDateStartAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="16"></Property>
+				<Property Name="MaterialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="OpenQuantity" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="OwnerId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="SpecialStockId" Type="Edm.String" Nullable="true" MaxLength="24"></Property>
+				<Property Name="StorageId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="Unit" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
 			</EntityType>
 			<EntityType Name="SalesOrder">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Declaration" Type="Edm.String" Nullabel="true" MaxLength="100"></Property>
-				<Property Name="DocDataFinishAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="DocDataStartAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="FundId" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="17"></Property>
-				<Property Name="MatarialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="OwnerId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Posnr" Type="Edm.String" Nullabel="true" MaxLength="6"></Property>
-				<Property Name="Quantity" Type="Edm.Decimal" Nullabel="true" Precision="15" Scale="3"></Property>
-				<Property Name="SpecialStockId" Type="Edm.String" Nullabel="true" MaxLength="24"></Property>
-				<Property Name="StorageId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="Unit" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
-				<Property Name="Vbeln" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="ConsigneeAddress" Type="Edm.String" Nullable="true" MaxLength="100"></Property>
+				<Property Name="ConsigneeId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="ConsigneeName" Type="Edm.String" Nullable="true" MaxLength="100"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Declaration" Type="Edm.String" Nullable="true" MaxLength="100"></Property>
+				<Property Name="DocDateFinishAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="DocDateStartAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="FundId" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="17"></Property>
+				<Property Name="MatarialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="OwnerId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Posnr" Type="Edm.String" Nullable="true" MaxLength="6"></Property>
+				<Property Name="Quantity" Type="Edm.Decimal" Nullable="true" Precision="15" Scale="3"></Property>
+				<Property Name="SpecialStockId" Type="Edm.String" Nullable="true" MaxLength="24"></Property>
+				<Property Name="StorageId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="Unit" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
+				<Property Name="Unloading" Type="Edm.String" Nullable="true" MaxLength="100"></Property>
+				<Property Name="Vbeln" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
 			</EntityType>
 			<EntityType Name="SpecialStock">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="DocDataFinishAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="DocDataStartAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="FundId" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="24"></Property>
-				<Property Name="MaterialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="OwnerId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Stock" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="StorageId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="DocDateFinishAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="DocDateStartAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="FundId" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="24"></Property>
+				<Property Name="MaterialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="OwnerId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Stock" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="StorageId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
 			</EntityType>
 			<EntityType Name="StatusWD">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="1"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="60"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="1"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="60"></Property>
 			</EntityType>
 			<EntityType Name="Storage">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="Address" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="HeadName" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="8"></Property>
-				<Property Name="InstallationId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="LabName" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="16"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="RespName" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="RespPost" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="StorageId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<NavigationProperty Name="InstallationDetails" Relationship="Weight.Installation_Storage_One_Many0" FromRole="Storage" ToRole="Installation"></NavigationProperty>
-				<NavigationProperty Name="PlantDetails" Relationship="Weight.Plant_Storage_One_Many0" FromRole="Storage" ToRole="Plant"></NavigationProperty>
+				<Property Name="Address" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="HeadName" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="8"></Property>
+				<Property Name="InstallationId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="LabName" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="16"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="RespName" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="RespPost" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="StorageId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<NavigationProperty Name="Installation" Relationship="Weight.Installation_Storage_One_Many0" FromRole="Storage" ToRole="Installation"></NavigationProperty>
+				<NavigationProperty Name="Plant" Relationship="Weight.Plant_Storage_One_Many0" FromRole="Storage" ToRole="Plant"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="Trailer">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CompanyCodeId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="18"></Property>
-				<Property Name="Kind" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="LicenseNum" Type="Edm.String" Nullabel="true" MaxLength="15"></Property>
-				<Property Name="MaxWeight" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Type" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Unit" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CompanyCodeId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="18"></Property>
+				<Property Name="Kind" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="LicenseNum" Type="Edm.String" Nullable="true" MaxLength="15"></Property>
+				<Property Name="MaxWeight" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Type" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Unit" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
 			</EntityType>
 			<EntityType Name="Transport">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CompanyCodeId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="18"></Property>
-				<Property Name="Kind" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="LicenseNum" Type="Edm.String" Nullabel="true" MaxLength="15"></Property>
-				<Property Name="MaxWeight" Type="Edm.Decimal" Nullabel="true"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Type" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Unit" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CompanyCodeId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="18"></Property>
+				<Property Name="Kind" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="LicenseNum" Type="Edm.String" Nullable="true" MaxLength="15"></Property>
+				<Property Name="MaxWeight" Type="Edm.Decimal" Nullable="true"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Type" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Unit" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
 			</EntityType>
 			<EntityType Name="TransportOrder">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="RIPlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="RIStorageId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="Amount" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="DocDateFinishAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="DocDateStartAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="FundId" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="16"></Property>
-				<Property Name="MaterialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="OwnerId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="SpecialStockId" Type="Edm.String" Nullabel="true" MaxLength="24"></Property>
-				<Property Name="StorageId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="Unit" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
+				<Property Name="RIPlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="RIStorageId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="Amount" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="DocDateFinishAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="DocDateStartAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="FundId" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="16"></Property>
+				<Property Name="MaterialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="OwnerId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="SpecialStockId" Type="Edm.String" Nullable="true" MaxLength="24"></Property>
+				<Property Name="StorageId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="Unit" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
 			</EntityType>
 			<EntityType Name="User">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="AllowManual" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="DefaultInstallationId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Firstname" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="12"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="120"></Property>
-				<Property Name="Surname" Type="Edm.String" Nullabel="true" MaxLength="40"></Property>
-				<NavigationProperty Name="InstallationDetails" Relationship="Weight.User_Installation_Many_ZeroToOne0" FromRole="User" ToRole="Installation"></NavigationProperty>
+				<Property Name="AllowManual" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="DefaultInstallationId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Firstname" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="12"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="120"></Property>
+				<Property Name="Surname" Type="Edm.String" Nullable="true" MaxLength="40"></Property>
+				<NavigationProperty Name="DefaultInstallation" Relationship="Weight.User_Installation_Many_ZeroToOne0" FromRole="User" ToRole="Installation"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="UserInstallation">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="16"></Property>
-				<Property Name="InstallationId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="UserId" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<NavigationProperty Name="UserDetails" Relationship="Weight.UserInstallation_User_Many_ZeroToOne0" FromRole="UserInstallation" ToRole="User"></NavigationProperty>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="16"></Property>
+				<Property Name="InstallationId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="UserId" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<NavigationProperty Name="User" Relationship="Weight.UserInstallation_User_Many_ZeroToOne0" FromRole="UserInstallation" ToRole="User"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="ValuationType">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="10"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="10"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
 			</EntityType>
 			<EntityType Name="Vendor">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="FullName" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="10"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="35"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="FullName" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="10"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="35"></Property>
 			</EntityType>
 			<EntityType Name="WeightDoc">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="RIMaterialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="RIPlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="RISpecialStockId" Type="Edm.String" Nullabel="true" MaxLength="24"></Property>
-				<Property Name="RIStorageId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Comment" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="DeleteFlag" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="DocumentDateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="DriverId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="FieldId" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="FundId" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="25"></Property>
-				<Property Name="InstallationId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="LabControllerId" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="LabNum" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="MatDocId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="MatDocItemId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="MatDocTrId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="MatDocTrItemId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="MatDocTrYear" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="MatDocYear" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="MaterialId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="OperationTypeId" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
-				<Property Name="OwnerId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="PlaceUnloadId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="PlantId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="PostingDateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="PurchaseOrderId" Type="Edm.String" Nullabel="true" MaxLength="16"></Property>
-				<Property Name="SalesOrderId" Type="Edm.String" Nullabel="true" MaxLength="17"></Property>
-				<Property Name="SapSyncNeed" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="Search" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="SpecialStockId" Type="Edm.String" Nullabel="true" MaxLength="24"></Property>
-				<Property Name="SpecialStockType" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="StatusWDId" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="StorageId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="SupplierBrutto" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="SupplierNetto" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="SupplierTara" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="TotalBunkerAmount" Type="Edm.Decimal" Nullabel="true" Precision="4" Scale="2"></Property>
-				<Property Name="TrailerBrutto" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="TrailerBruttoAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="TrailerBruttoBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="TrailerBruttoManual" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="TrailerBruttoTerminal" Type="Edm.String" Nullabel="true" MaxLength="20"></Property>
-				<Property Name="TrailerId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="TrailerNetto" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="TrailerTara" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="TrailerTaraAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="TrailerTaraBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="TrailerTaraManual" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="TrailerTaraTerminal" Type="Edm.String" Nullabel="true" MaxLength="20"></Property>
-				<Property Name="TransportBrutto" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="TransportBruttoAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="TransportBruttoBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="TransportBruttoManual" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="TransportBruttoTerminal" Type="Edm.String" Nullabel="true" MaxLength="20"></Property>
-				<Property Name="TransportId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="TransportNetto" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="TransportOrderId" Type="Edm.String" Nullabel="true" MaxLength="16"></Property>
-				<Property Name="TransportTara" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="TransportTaraAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="TransportTaraBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="TransportTaraManual" Type="Edm.Boolean" Nullabel="true"></Property>
-				<Property Name="TransportTaraTerminal" Type="Edm.String" Nullabel="true" MaxLength="20"></Property>
-				<Property Name="Unit" Type="Edm.String" Nullabel="true" MaxLength="3"></Property>
-				<Property Name="ValuationTypeId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="VendorId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="WagonNum" Type="Edm.String" Nullabel="true" MaxLength="15"></Property>
-				<Property Name="Waybill" Type="Edm.String" Nullabel="true" MaxLength="16"></Property>
-				<Property Name="WeightTerminalBruttoId" Type="Edm.String" Nullabel="true" MaxLength="20"></Property>
-				<Property Name="WeightTerminalTaraId" Type="Edm.String" Nullabel="true" MaxLength="20"></Property>
-				<Property Name="WeightTerminalType" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<NavigationProperty Name="MaterialDetails" Relationship="Weight.WeightDoc_Material_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Material"></NavigationProperty>
+				<Property Name="RIMaterialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="RIPlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="RISpecialStockId" Type="Edm.String" Nullable="true" MaxLength="24"></Property>
+				<Property Name="RIStorageId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="Cancelled" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Comment" Type="Edm.String" Nullable="true" MaxLength="3000"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="DeleteFlag" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="DocumentDateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="DriverFIO" Type="Edm.String" Nullable="true" MaxLength="128"></Property>
+				<Property Name="DriverId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="FieldId" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
+				<Property Name="FundId" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="25"></Property>
+				<Property Name="InstallationId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="LabControllerId" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="LabNum" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="MatDocId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="MatDocItemId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="MatDocTrId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="MatDocTrItemId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="MatDocTrYear" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="MatDocYear" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="MaterialId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="OperationTypeId" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
+				<Property Name="OwnerId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="PlaceUnloadId" Type="Edm.String" Nullable="true" MaxLength="14"></Property>
+				<Property Name="PlantId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="PostingDateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="PurchaseOrderId" Type="Edm.String" Nullable="true" MaxLength="16"></Property>
+				<Property Name="SalesOrderId" Type="Edm.String" Nullable="true" MaxLength="17"></Property>
+				<Property Name="SapSyncNeed" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="Search" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="SpecialStockId" Type="Edm.String" Nullable="true" MaxLength="24"></Property>
+				<Property Name="SpecialStockType" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="StatusWDId" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="StorageId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="SupplierBrutto" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="SupplierNetto" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="SupplierTara" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="TotalBunkerAmount" Type="Edm.Decimal" Nullable="true" Precision="4" Scale="2"></Property>
+				<Property Name="TrailerBrutto" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="TrailerBruttoAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="TrailerBruttoBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="TrailerBruttoManual" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="TrailerBruttoTerminal" Type="Edm.String" Nullable="true" MaxLength="20"></Property>
+				<Property Name="TrailerId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="TrailerLicnum" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="TrailerModel" Type="Edm.String" Nullable="true" MaxLength="128"></Property>
+				<Property Name="TrailerNetto" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="TrailerTara" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="TrailerTaraAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="TrailerTaraBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="TrailerTaraManual" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="TrailerTaraTerminal" Type="Edm.String" Nullable="true" MaxLength="20"></Property>
+				<Property Name="TransportBrutto" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="TransportBruttoAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="TransportBruttoBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="TransportBruttoManual" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="TransportBruttoTerminal" Type="Edm.String" Nullable="true" MaxLength="20"></Property>
+				<Property Name="TransportId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="TransportLicnum" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="TransportManual" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="TransportModel" Type="Edm.String" Nullable="true" MaxLength="128"></Property>
+				<Property Name="TransportNetto" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="TransportOrderId" Type="Edm.String" Nullable="true" MaxLength="16"></Property>
+				<Property Name="TransportTara" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="TransportTaraAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="TransportTaraBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="TransportTaraManual" Type="Edm.Boolean" Nullable="true"></Property>
+				<Property Name="TransportTaraTerminal" Type="Edm.String" Nullable="true" MaxLength="20"></Property>
+				<Property Name="Unit" Type="Edm.String" Nullable="true" MaxLength="3"></Property>
+				<Property Name="ValuationTypeId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="VendorId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="WagonNum" Type="Edm.String" Nullable="true" MaxLength="15"></Property>
+				<Property Name="Waybill" Type="Edm.String" Nullable="true" MaxLength="16"></Property>
+				<Property Name="WeightTerminalBruttoId" Type="Edm.String" Nullable="true" MaxLength="20"></Property>
+				<Property Name="WeightTerminalTaraId" Type="Edm.String" Nullable="true" MaxLength="20"></Property>
+				<Property Name="WeightTerminalType" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<NavigationProperty Name="RIMaterial" Relationship="Weight.WeightDoc_Material_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Material"></NavigationProperty>
 				<NavigationProperty Name="RIPlant" Relationship="Weight.WeightDoc_Plant_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Plant"></NavigationProperty>
 				<NavigationProperty Name="RISpecialStock" Relationship="Weight.WeightDoc_SpecialStock_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="SpecialStock"></NavigationProperty>
 				<NavigationProperty Name="RIStorage" Relationship="Weight.WeightDoc_Storage_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Storage"></NavigationProperty>
@@ -574,21 +587,22 @@
 				<NavigationProperty Name="Driver" Relationship="Weight.WeightDoc_Driver_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Driver"></NavigationProperty>
 				<NavigationProperty Name="Field" Relationship="Weight.WeightDoc_Field_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Field"></NavigationProperty>
 				<NavigationProperty Name="Fund" Relationship="Weight.WeightDoc_Fund_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Fund"></NavigationProperty>
-				<NavigationProperty Name="InstallationDetails" Relationship="Weight.WeightDoc_Installation_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Installation"></NavigationProperty>
+				<NavigationProperty Name="Installation" Relationship="Weight.WeightDoc_Installation_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Installation"></NavigationProperty>
 				<NavigationProperty Name="LabController" Relationship="Weight.WeightDoc_User_Many_ZeroToOne1" FromRole="WeightDoc" ToRole="User"></NavigationProperty>
 				<NavigationProperty Name="Material" Relationship="Weight.WeightDoc_Material_Many_ZeroToOne1" FromRole="WeightDoc" ToRole="Material"></NavigationProperty>
 				<NavigationProperty Name="OperationType" Relationship="Weight.WeightDoc_OperationType_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="OperationType"></NavigationProperty>
 				<NavigationProperty Name="Owner" Relationship="Weight.WeightDoc_Owner_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Owner"></NavigationProperty>
 				<NavigationProperty Name="PlaceUnload" Relationship="Weight.WeightDoc_PlaceUnload_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="PlaceUnload"></NavigationProperty>
 				<NavigationProperty Name="Plant" Relationship="Weight.WeightDoc_Plant_Many_ZeroToOne1" FromRole="WeightDoc" ToRole="Plant"></NavigationProperty>
-				<NavigationProperty Name="PurchaseOrderDetails" Relationship="Weight.WeightDoc_PurchaseOrder_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="PurchaseOrder"></NavigationProperty>
-				<NavigationProperty Name="SalesOrderDetails" Relationship="Weight.WeightDoc_SalesOrder_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="SalesOrder"></NavigationProperty>
+				<NavigationProperty Name="PurchaseOrder" Relationship="Weight.WeightDoc_PurchaseOrder_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="PurchaseOrder"></NavigationProperty>
+				<NavigationProperty Name="SalesOrder" Relationship="Weight.WeightDoc_SalesOrder_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="SalesOrder"></NavigationProperty>
 				<NavigationProperty Name="SpecialStock" Relationship="Weight.WeightDoc_SpecialStock_Many_ZeroToOne1" FromRole="WeightDoc" ToRole="SpecialStock"></NavigationProperty>
 				<NavigationProperty Name="StatusWD" Relationship="Weight.WeightDoc_StatusWD_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="StatusWD"></NavigationProperty>
 				<NavigationProperty Name="Storage" Relationship="Weight.WeightDoc_Storage_Many_ZeroToOne1" FromRole="WeightDoc" ToRole="Storage"></NavigationProperty>
 				<NavigationProperty Name="Trailer" Relationship="Weight.WeightDoc_Trailer_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Trailer"></NavigationProperty>
 				<NavigationProperty Name="Transport" Relationship="Weight.WeightDoc_Transport_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Transport"></NavigationProperty>
-				<NavigationProperty Name="VendorDetails" Relationship="Weight.WeightDoc_Vendor_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Vendor"></NavigationProperty>
+				<NavigationProperty Name="TransportBruttoUser" Relationship="Weight.WeightDoc_User_Many_ZeroToOne2" FromRole="WeightDoc" ToRole="User"></NavigationProperty>
+				<NavigationProperty Name="Vendor" Relationship="Weight.WeightDoc_Vendor_Many_ZeroToOne0" FromRole="WeightDoc" ToRole="Vendor"></NavigationProperty>
 				<NavigationProperty Name="WeightDocCombSet" Relationship="Weight.WeightDoc_WeightDocComb_One_Many0" FromRole="WeightDoc" ToRole="WeightDocComb"></NavigationProperty>
 				<NavigationProperty Name="WeightDocLabSet" Relationship="Weight.WeightDoc_WeightDocLab_One_Many0" FromRole="WeightDoc" ToRole="WeightDocLab"></NavigationProperty>
 				<NavigationProperty Name="WeightDocLogSet" Relationship="Weight.WeightDoc_WeightDocLog_One_Many0" FromRole="WeightDoc" ToRole="WeightDocLog"></NavigationProperty>
@@ -598,26 +612,26 @@
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="32"></Property>
-				<Property Name="Batch" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="BunkerAmount" Type="Edm.Decimal" Nullabel="true" Precision="4" Scale="2"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CoefDistr" Type="Edm.Decimal" Nullabel="true" Precision="6" Scale="3"></Property>
-				<Property Name="CombineFieldId" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="CombineId" Type="Edm.String" Nullabel="true" MaxLength="18"></Property>
-				<Property Name="CombinerId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Distribution" Type="Edm.Decimal" Nullabel="true" Precision="13" Scale="3"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="MatDocId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="MatDocItemId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="MatDocTrId" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="MatDocTrItemId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="MatDocTrYear" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="MatDocYear" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="WeightDocId" Type="Edm.String" Nullabel="true" MaxLength="25"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="32"></Property>
+				<Property Name="Batch" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="BunkerAmount" Type="Edm.Decimal" Nullable="true" Precision="4" Scale="2"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CoefDistr" Type="Edm.Decimal" Nullable="true" Precision="6" Scale="3"></Property>
+				<Property Name="CombineFieldId" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
+				<Property Name="CombineId" Type="Edm.String" Nullable="true" MaxLength="18"></Property>
+				<Property Name="CombinerId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Distribution" Type="Edm.Decimal" Nullable="true" Precision="13" Scale="3"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="MatDocId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="MatDocItemId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="MatDocTrId" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="MatDocTrItemId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="MatDocTrYear" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="MatDocYear" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="WeightDocId" Type="Edm.String" Nullable="true" MaxLength="25"></Property>
 				<NavigationProperty Name="Combine" Relationship="Weight.WeightDocComb_Combine_Many_ZeroToOne0" FromRole="WeightDocComb" ToRole="Combine"></NavigationProperty>
 				<NavigationProperty Name="Combiner" Relationship="Weight.WeightDocComb_Combiner_Many_ZeroToOne0" FromRole="WeightDocComb" ToRole="Combiner"></NavigationProperty>
 				<NavigationProperty Name="WeightDoc" Relationship="Weight.WeightDoc_WeightDocComb_One_Many0" FromRole="WeightDocComb" ToRole="WeightDoc"></NavigationProperty>
@@ -626,23 +640,23 @@
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="LabAttrId" Type="Edm.String" Nullabel="true" MaxLength="8"></Property>
-				<Property Name="NumericValue" Type="Edm.Decimal" Nullabel="true"></Property>
-				<Property Name="AttrType" Type="Edm.String" Nullabel="true" MaxLength="10"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="EnterAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="EnterBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="32"></Property>
-				<Property Name="LabAttrValueId" Type="Edm.String" Nullabel="true" MaxLength="38"></Property>
-				<Property Name="MaxNumVal" Type="Edm.Double" Nullabel="true"></Property>
-				<Property Name="MixNumVal" Type="Edm.Double" Nullabel="true"></Property>
-				<Property Name="Scale" Type="Edm.Int32" Nullabel="true"></Property>
-				<Property Name="TextValue" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="WeightDocId" Type="Edm.String" Nullabel="true" MaxLength="25"></Property>
+				<Property Name="LabAttrId" Type="Edm.String" Nullable="true" MaxLength="8"></Property>
+				<Property Name="NumericValue" Type="Edm.Decimal" Nullable="true"></Property>
+				<Property Name="AttrType" Type="Edm.String" Nullable="true" MaxLength="10"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="EnterAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="EnterBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="32"></Property>
+				<Property Name="LabAttrValueId" Type="Edm.String" Nullable="true" MaxLength="38"></Property>
+				<Property Name="MaxNumVal" Type="Edm.Double" Nullable="true"></Property>
+				<Property Name="MinNumVal" Type="Edm.Double" Nullable="true"></Property>
+				<Property Name="Scale" Type="Edm.Int32" Nullable="true"></Property>
+				<Property Name="TextValue" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
+				<Property Name="WeightDocId" Type="Edm.String" Nullable="true" MaxLength="25"></Property>
 				<NavigationProperty Name="LabAttrValue" Relationship="Weight.WeightDocLab_LabAttrValue_Many_ZeroToOne0" FromRole="WeightDocLab" ToRole="LabAttrValue"></NavigationProperty>
 				<NavigationProperty Name="WeightDoc" Relationship="Weight.WeightDoc_WeightDocLab_One_Many0" FromRole="WeightDocLab" ToRole="WeightDoc"></NavigationProperty>
 			</EntityType>
@@ -650,53 +664,48 @@
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="32"></Property>
-				<Property Name="Message" Type="Edm.String" Nullabel="true" MaxLength="220"></Property>
-				<Property Name="Type" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
-				<Property Name="WeightDocId" Type="Edm.String" Nullabel="true" MaxLength="25"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="32"></Property>
+				<Property Name="Message" Type="Edm.String" Nullable="true" MaxLength="220"></Property>
+				<Property Name="Type" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<Property Name="WeightDocId" Type="Edm.String" Nullable="true" MaxLength="25"></Property>
 				<NavigationProperty Name="WeightDoc" Relationship="Weight.WeightDoc_WeightDocLog_One_Many0" FromRole="WeightDocLog" ToRole="WeightDoc"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="WeightDocPhoto">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="CameraId" Type="Edm.String" Nullabel="true" MaxLength="30"></Property>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="32"></Property>
-				<Property Name="Timestamp" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="Url" Type="Edm.String" Nullabel="true" MaxLength="255"></Property>
-				<Property Name="WeightDocId" Type="Edm.String" Nullabel="true" MaxLength="25"></Property>
+				<Property Name="CameraId" Type="Edm.String" Nullable="true" MaxLength="30"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="32"></Property>
+				<Property Name="Timestamp" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="Url" Type="Edm.String" Nullable="true" MaxLength="255"></Property>
+				<Property Name="WeightDocId" Type="Edm.String" Nullable="true" MaxLength="25"></Property>
 				<NavigationProperty Name="WeightDoc" Relationship="Weight.WeightDoc_WeightDocPhoto_One_Many0" FromRole="WeightDocPhoto" ToRole="WeightDoc"></NavigationProperty>
 			</EntityType>
 			<EntityType Name="WeightTerminal">
 				<Key>
 					<PropertyRef Name="Id"></PropertyRef>
 				</Key>
-				<Property Name="ChangeAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="ChangeBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="CreateAt" Type="Edm.DateTime" Nullabel="true"></Property>
-				<Property Name="CreateBy" Type="Edm.String" Nullabel="true" MaxLength="12"></Property>
-				<Property Name="Etag" Type="Edm.String" Nullabel="true" MaxLength="32"></Property>
-				<Property Name="Id" Type="Edm.String" Nullabel="false" MaxLength="20"></Property>
-				<Property Name="InstallationId" Type="Edm.String" Nullabel="true" MaxLength="4"></Property>
-				<Property Name="Name" Type="Edm.String" Nullabel="true" MaxLength="60"></Property>
-				<Property Name="Type" Type="Edm.String" Nullabel="true" MaxLength="1"></Property>
+				<Property Name="ChangeAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="ChangeBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="CreateAt" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="CreateBy" Type="Edm.String" Nullable="true" MaxLength="12"></Property>
+				<Property Name="Etag" Type="Edm.String" Nullable="true" MaxLength="32"></Property>
+				<Property Name="Id" Type="Edm.String" Nullable="false" MaxLength="20"></Property>
+				<Property Name="InstallationId" Type="Edm.String" Nullable="true" MaxLength="4"></Property>
+				<Property Name="Name" Type="Edm.String" Nullable="true" MaxLength="60"></Property>
+				<Property Name="Type" Type="Edm.String" Nullable="true" MaxLength="1"></Property>
+				<NavigationProperty Name="CameraSet" Relationship="Weight.Camera_WeightTerminal_Many_ZeroToOne0" FromRole="WeightTerminal" ToRole="Camera"></NavigationProperty>
 			</EntityType>
-			<ComplexType Name="Weight">
-				<Property Name="WeightTerminalId" Type="Edm.String"></Property>
-				<Property Name="LicenseNum" Type="Edm.String"></Property>
-				<Property Name="WeightValue" Type="Edm.Decimal"></Property>
-				<Property Name="Timestamp" Type="Edm.DateTime"></Property>
-			</ComplexType>
 			<ComplexType Name="Property">
 				<Property Name="Key" Type="Edm.String"></Property>
 				<Property Name="Value" Type="Edm.String"></Property>
@@ -711,6 +720,36 @@
 			<ComplexType Name="Waybill">
 				<Property Name="Id" Type="Edm.String" MaxLength="16"></Property>
 			</ComplexType>
+			<ComplexType Name="WeightData">
+				<Property Name="Datetime" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="WeightValue" Type="Edm.Decimal" Precision="13" Scale="3"></Property>
+				<Property Name="IsStable" Type="Edm.Boolean"></Property>
+				<Property Name="WeightTerminalId" Type="Edm.String" MaxLength="20"></Property>
+				<Property Name="In" Type="Edm.String" MaxLength="5"></Property>
+				<Property Name="Out" Type="Edm.String" MaxLength="5"></Property>
+			</ComplexType>
+			<ComplexType Name="RecognitionData">
+				<Property Name="Datetime" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="TransportLicnum" Type="Edm.String" MaxLength="32"></Property>
+				<Property Name="TrailerLicnum" Type="Edm.String" MaxLength="32"></Property>
+				<Property Name="Url" Type="Edm.String" MaxLength="255"></Property>
+				<Property Name="CameraId" Type="Edm.String" MaxLength="30"></Property>
+			</ComplexType>
+			<ComplexType Name="Photo">
+				<Property Name="CameraId" Type="Edm.String" MaxLength="30"></Property>
+				<Property Name="Timestamp" Type="Edm.DateTime" Nullable="true"></Property>
+				<Property Name="URL" Type="Edm.String" MaxLength="255"></Property>
+			</ComplexType>
+			<ComplexType Name="TransportDependency">
+				<Property Name="TransportId" Type="Edm.String" MaxLength="18"></Property>
+				<Property Name="TrailerId" Type="Edm.String" MaxLength="18"></Property>
+				<Property Name="DriverId" Type="Edm.String" MaxLength="8"></Property>
+				<Property Name="TransportModel" Type="Edm.String" MaxLength="128"></Property>
+				<Property Name="TransportLicnum" Type="Edm.String" MaxLength="32"></Property>
+				<Property Name="TrailerModel" Type="Edm.String" MaxLength="128"></Property>
+				<Property Name="TrailerLicnum" Type="Edm.String" MaxLength="32"></Property>
+				<Property Name="DriverFIO" Type="Edm.String" MaxLength="128"></Property>
+			</ComplexType>
 			<Association Name="AuthUser_User_Many_ZeroToOne0">
 				<End Type="Weight.AuthUser" Multiplicity="*" Role="AuthUser"></End>
 				<End Type="Weight.User" Multiplicity="0..1" Role="User"></End>
@@ -720,6 +759,18 @@
 					</Principal>
 					<Dependent Role="AuthUser">
 						<PropertyRef Name="SapUserId"></PropertyRef>
+					</Dependent>
+				</ReferentialConstraint>
+			</Association>
+			<Association Name="Camera_WeightTerminal_Many_ZeroToOne0">
+				<End Type="Weight.Camera" Multiplicity="*" Role="Camera"></End>
+				<End Type="Weight.WeightTerminal" Multiplicity="0..1" Role="WeightTerminal"></End>
+				<ReferentialConstraint>
+					<Principal Role="WeightTerminal">
+						<PropertyRef Name="Id"></PropertyRef>
+					</Principal>
+					<Dependent Role="Camera">
+						<PropertyRef Name="WeightTerminalId"></PropertyRef>
 					</Dependent>
 				</ReferentialConstraint>
 			</Association>
@@ -1095,6 +1146,18 @@
 					</Dependent>
 				</ReferentialConstraint>
 			</Association>
+			<Association Name="WeightDoc_User_Many_ZeroToOne2">
+				<End Type="Weight.WeightDoc" Multiplicity="*" Role="WeightDoc"></End>
+				<End Type="Weight.User" Multiplicity="0..1" Role="User"></End>
+				<ReferentialConstraint>
+					<Principal Role="User">
+						<PropertyRef Name="Id"></PropertyRef>
+					</Principal>
+					<Dependent Role="WeightDoc">
+						<PropertyRef Name="TransportBruttoBy"></PropertyRef>
+					</Dependent>
+				</ReferentialConstraint>
+			</Association>
 			<Association Name="WeightDoc_Vendor_Many_ZeroToOne0">
 				<End Type="Weight.WeightDoc" Multiplicity="*" Role="WeightDoc"></End>
 				<End Type="Weight.Vendor" Multiplicity="0..1" Role="Vendor"></End>
@@ -1193,24 +1256,24 @@
 			</Association>
 			<EntityContainer Name="Weight" m:IsDefaultEntityContainer="true">
 				<EntitySet Name="AuthUserSet" EntityType="Weight.AuthUser"></EntitySet>
-				<EntitySet Name="Cameras" EntityType="Weight.Camera"></EntitySet>
+				<EntitySet Name="CameraSet" EntityType="Weight.Camera"></EntitySet>
 				<EntitySet Name="CombineSet" EntityType="Weight.Combine"></EntitySet>
 				<EntitySet Name="CombinerSet" EntityType="Weight.Combiner"></EntitySet>
 				<EntitySet Name="DriverSet" EntityType="Weight.Driver"></EntitySet>
 				<EntitySet Name="EntityInfos" EntityType="Weight.EntityInfo"></EntitySet>
 				<EntitySet Name="FieldSet" EntityType="Weight.Field"></EntitySet>
 				<EntitySet Name="FundSet" EntityType="Weight.Fund"></EntitySet>
-				<EntitySet Name="Installations" EntityType="Weight.Installation"></EntitySet>
+				<EntitySet Name="InstallationSet" EntityType="Weight.Installation"></EntitySet>
 				<EntitySet Name="LabAttrValueSet" EntityType="Weight.LabAttrValue"></EntitySet>
-				<EntitySet Name="LabRelations" EntityType="Weight.LabRelation"></EntitySet>
+				<EntitySet Name="LabRelationSet" EntityType="Weight.LabRelation"></EntitySet>
 				<EntitySet Name="MaterialSet" EntityType="Weight.Material"></EntitySet>
 				<EntitySet Name="OperationTypeSet" EntityType="Weight.OperationType"></EntitySet>
 				<EntitySet Name="OwnerSet" EntityType="Weight.Owner"></EntitySet>
 				<EntitySet Name="PlaceUnloadSet" EntityType="Weight.PlaceUnload"></EntitySet>
 				<EntitySet Name="PlantSet" EntityType="Weight.Plant"></EntitySet>
-				<EntitySet Name="PlantInstallations" EntityType="Weight.PlantInstallation"></EntitySet>
+				<EntitySet Name="PlantInstallationSet" EntityType="Weight.PlantInstallation"></EntitySet>
 				<EntitySet Name="PurchaseOrders" EntityType="Weight.PurchaseOrder"></EntitySet>
-				<EntitySet Name="SalesOrders" EntityType="Weight.SalesOrder"></EntitySet>
+				<EntitySet Name="SalesOrderSet" EntityType="Weight.SalesOrder"></EntitySet>
 				<EntitySet Name="SpecialStockSet" EntityType="Weight.SpecialStock"></EntitySet>
 				<EntitySet Name="StatusWDSet" EntityType="Weight.StatusWD"></EntitySet>
 				<EntitySet Name="StorageSet" EntityType="Weight.Storage"></EntitySet>
@@ -1218,9 +1281,9 @@
 				<EntitySet Name="TransportSet" EntityType="Weight.Transport"></EntitySet>
 				<EntitySet Name="TransportOrderSet" EntityType="Weight.TransportOrder"></EntitySet>
 				<EntitySet Name="UserSet" EntityType="Weight.User"></EntitySet>
-				<EntitySet Name="UserInstallations" EntityType="Weight.UserInstallation"></EntitySet>
+				<EntitySet Name="UserInstallationSet" EntityType="Weight.UserInstallation"></EntitySet>
 				<EntitySet Name="ValuationTypeSet" EntityType="Weight.ValuationType"></EntitySet>
-				<EntitySet Name="Vendors" EntityType="Weight.Vendor"></EntitySet>
+				<EntitySet Name="VendorSet" EntityType="Weight.Vendor"></EntitySet>
 				<EntitySet Name="WeightDocSet" EntityType="Weight.WeightDoc"></EntitySet>
 				<EntitySet Name="WeightDocCombSet" EntityType="Weight.WeightDocComb"></EntitySet>
 				<EntitySet Name="WeightDocLabSet" EntityType="Weight.WeightDocLab"></EntitySet>
@@ -1231,6 +1294,10 @@
 					<End EntitySet="AuthUserSet" Role="AuthUser"></End>
 					<End EntitySet="UserSet" Role="User"></End>
 				</AssociationSet>
+				<AssociationSet Name="Camera_WeightTerminal_Many_ZeroToOne0Set" Association="Weight.Camera_WeightTerminal_Many_ZeroToOne0">
+					<End EntitySet="CameraSet" Role="Camera"></End>
+					<End EntitySet="WeightTerminalSet" Role="WeightTerminal"></End>
+				</AssociationSet>
 				<AssociationSet Name="Field_Material_Many_ZeroToOne0Set" Association="Weight.Field_Material_Many_ZeroToOne0">
 					<End EntitySet="FieldSet" Role="Field"></End>
 					<End EntitySet="MaterialSet" Role="Material"></End>
@@ -1240,15 +1307,15 @@
 					<End EntitySet="PlantSet" Role="Plant"></End>
 				</AssociationSet>
 				<AssociationSet Name="PlantInstallation_Installation_Many_ZeroToOne0Set" Association="Weight.PlantInstallation_Installation_Many_ZeroToOne0">
-					<End EntitySet="PlantInstallations" Role="PlantInstallation"></End>
-					<End EntitySet="Installations" Role="Installation"></End>
+					<End EntitySet="PlantInstallationSet" Role="PlantInstallation"></End>
+					<End EntitySet="InstallationSet" Role="Installation"></End>
 				</AssociationSet>
 				<AssociationSet Name="PlantInstallation_Plant_Many_ZeroToOne0Set" Association="Weight.PlantInstallation_Plant_Many_ZeroToOne0">
-					<End EntitySet="PlantInstallations" Role="PlantInstallation"></End>
+					<End EntitySet="PlantInstallationSet" Role="PlantInstallation"></End>
 					<End EntitySet="PlantSet" Role="Plant"></End>
 				</AssociationSet>
 				<AssociationSet Name="Installation_Storage_One_Many0Set" Association="Weight.Installation_Storage_One_Many0">
-					<End EntitySet="Installations" Role="Installation"></End>
+					<End EntitySet="InstallationSet" Role="Installation"></End>
 					<End EntitySet="StorageSet" Role="Storage"></End>
 				</AssociationSet>
 				<AssociationSet Name="Plant_Storage_One_Many0Set" Association="Weight.Plant_Storage_One_Many0">
@@ -1257,10 +1324,10 @@
 				</AssociationSet>
 				<AssociationSet Name="User_Installation_Many_ZeroToOne0Set" Association="Weight.User_Installation_Many_ZeroToOne0">
 					<End EntitySet="UserSet" Role="User"></End>
-					<End EntitySet="Installations" Role="Installation"></End>
+					<End EntitySet="InstallationSet" Role="Installation"></End>
 				</AssociationSet>
 				<AssociationSet Name="UserInstallation_User_Many_ZeroToOne0Set" Association="Weight.UserInstallation_User_Many_ZeroToOne0">
-					<End EntitySet="UserInstallations" Role="UserInstallation"></End>
+					<End EntitySet="UserInstallationSet" Role="UserInstallation"></End>
 					<End EntitySet="UserSet" Role="User"></End>
 				</AssociationSet>
 				<AssociationSet Name="WeightDoc_Material_Many_ZeroToOne0Set" Association="Weight.WeightDoc_Material_Many_ZeroToOne0">
@@ -1301,7 +1368,7 @@
 				</AssociationSet>
 				<AssociationSet Name="WeightDoc_Installation_Many_ZeroToOne0Set" Association="Weight.WeightDoc_Installation_Many_ZeroToOne0">
 					<End EntitySet="WeightDocSet" Role="WeightDoc"></End>
-					<End EntitySet="Installations" Role="Installation"></End>
+					<End EntitySet="InstallationSet" Role="Installation"></End>
 				</AssociationSet>
 				<AssociationSet Name="WeightDoc_User_Many_ZeroToOne1Set" Association="Weight.WeightDoc_User_Many_ZeroToOne1">
 					<End EntitySet="WeightDocSet" Role="WeightDoc"></End>
@@ -1333,7 +1400,7 @@
 				</AssociationSet>
 				<AssociationSet Name="WeightDoc_SalesOrder_Many_ZeroToOne0Set" Association="Weight.WeightDoc_SalesOrder_Many_ZeroToOne0">
 					<End EntitySet="WeightDocSet" Role="WeightDoc"></End>
-					<End EntitySet="SalesOrders" Role="SalesOrder"></End>
+					<End EntitySet="SalesOrderSet" Role="SalesOrder"></End>
 				</AssociationSet>
 				<AssociationSet Name="WeightDoc_SpecialStock_Many_ZeroToOne1Set" Association="Weight.WeightDoc_SpecialStock_Many_ZeroToOne1">
 					<End EntitySet="WeightDocSet" Role="WeightDoc"></End>
@@ -1355,9 +1422,13 @@
 					<End EntitySet="WeightDocSet" Role="WeightDoc"></End>
 					<End EntitySet="TransportSet" Role="Transport"></End>
 				</AssociationSet>
+				<AssociationSet Name="WeightDoc_User_Many_ZeroToOne2Set" Association="Weight.WeightDoc_User_Many_ZeroToOne2">
+					<End EntitySet="WeightDocSet" Role="WeightDoc"></End>
+					<End EntitySet="UserSet" Role="User"></End>
+				</AssociationSet>
 				<AssociationSet Name="WeightDoc_Vendor_Many_ZeroToOne0Set" Association="Weight.WeightDoc_Vendor_Many_ZeroToOne0">
 					<End EntitySet="WeightDocSet" Role="WeightDoc"></End>
-					<End EntitySet="Vendors" Role="Vendor"></End>
+					<End EntitySet="VendorSet" Role="Vendor"></End>
 				</AssociationSet>
 				<AssociationSet Name="WeightDocComb_Combine_Many_ZeroToOne0Set" Association="Weight.WeightDocComb_Combine_Many_ZeroToOne0">
 					<End EntitySet="WeightDocCombSet" Role="WeightDocComb"></End>
@@ -1388,20 +1459,28 @@
 					<End EntitySet="WeightDocPhotoSet" Role="WeightDocPhoto"></End>
 				</AssociationSet>
 				<FunctionImport Name="GetProperties" ReturnType="Collection(Weight.Property)" m:HttpMethod="GET"></FunctionImport>
-				<FunctionImport Name="Initial" ReturnType="Edm.String" m:HttpMethod="GET"></FunctionImport>
-				<FunctionImport Name="GetWaybillId" ReturnType="Weight.Waybill" m:HttpMethod="POST">
-					<Parameter Name="PlantId" Type="Edm.String" Nullabel="true"></Parameter>
+				<FunctionImport Name="GetWeightData" ReturnType="Weight.WeightData" m:HttpMethod="GET">
+					<Parameter Name="WeightTerminalId" Type="Edm.String" Nullable="true" MaxLength="10"></Parameter>
 				</FunctionImport>
-				<FunctionImport Name="GetWeight" ReturnType="Weight.Weight" m:HttpMethod="POST">
-					<Parameter Name="DateTime" Type="Edm.DateTime" Nullabel="false"></Parameter>
-					<Parameter Name="Delta" Type="Edm.Int32" Nullabel="false"></Parameter>
-					<Parameter Name="WeightTerminalId" Type="Edm.String" Nullabel="false"></Parameter>
+				<FunctionImport Name="GetWaybillId" ReturnType="Weight.Waybill" m:HttpMethod="GET">
+					<Parameter Name="PlantId" Type="Edm.String" Nullable="true"></Parameter>
 				</FunctionImport>
-				<FunctionImport Name="DoOperation" ReturnType="Weight.OperationResult" m:HttpMethod="GET">
-					<Parameter Name="Operation" Type="Edm.String" Nullabel="false"></Parameter>
-					<Parameter Name="EntitySet" Type="Edm.String" Nullabel="false"></Parameter>
+				<FunctionImport Name="GetPhoto" ReturnType="Weight.Photo" m:HttpMethod="GET">
+					<Parameter Name="CameraId" Type="Edm.String" Nullable="true" MaxLength="30"></Parameter>
 				</FunctionImport>
 				<FunctionImport Name="GetCurrentUser" ReturnType="Weight.User" EntitySet="UserSet" m:HttpMethod="GET"></FunctionImport>
+				<FunctionImport Name="DoOperation" ReturnType="Weight.OperationResult" m:HttpMethod="GET">
+					<Parameter Name="Operation" Type="Edm.String" Nullable="false"></Parameter>
+					<Parameter Name="EntitySet" Type="Edm.String" Nullable="false"></Parameter>
+				</FunctionImport>
+				<FunctionImport Name="Initial" ReturnType="Edm.String" m:HttpMethod="GET"></FunctionImport>
+				<FunctionImport Name="GetTransportDependency" ReturnType="Weight.TransportDependency" m:HttpMethod="GET">
+					<Parameter Name="LicenseNum" Type="Edm.String" Nullable="true" MaxLength="15"></Parameter>
+					<Parameter Name="TransportId" Type="Edm.String" Nullable="true" MaxLength="18"></Parameter>
+				</FunctionImport>
+				<FunctionImport Name="GetRecognitionData" ReturnType="Weight.RecognitionData" m:HttpMethod="GET">
+					<Parameter Name="WeightTerminalId" Type="Edm.String" Nullable="true" MaxLength="10"></Parameter>
+				</FunctionImport>
 			</EntityContainer>
 		</Schema>
 	</edmx:DataServices>
