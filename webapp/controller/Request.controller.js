@@ -42,7 +42,7 @@ sap.ui.define([
 				data: (currentType == "GET") ? "" : this.__oViewModel.getProperty("/req"),
 				url: this.__oViewModel.getProperty("/url"),
 				success: (data) => {
-					this.__oViewModel.setProperty("/res", JSON.stringify(data));
+					this.__oViewModel.setProperty("/res", JSON.stringify(data,null, 4));
 				},
 				error: (error) => {
 					this.__oViewModel.setProperty("/res", JSON.stringify(error, null, 4));
